@@ -42,9 +42,9 @@ export default defineComponent({
             }
         };
         return () => {
-            // NOTICE: here we put the `slots.default()` inside the render function to make
+            // NOTICE: here we put the `slots.default()` inside the render funcImg to make
             // the slots reactive, otherwise the slot content won't be changed once the
-            // `setup()` function of current component is called
+            // `setup()` funcImg of current component is called
             var _a;
             // get children code-group-item
             const items = (((_a = slots.default) === null || _a === void 0 ? void 0 : _a.call(slots)) || [])

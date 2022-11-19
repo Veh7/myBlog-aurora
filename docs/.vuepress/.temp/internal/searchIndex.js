@@ -1143,6 +1143,48 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "",
+    "headers": [],
+    "path": "/base/admin.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "",
+    "headers": [],
+    "path": "/base/command.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "",
+    "headers": [],
+    "path": "/base/docs.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "",
+    "headers": [],
+    "path": "/base/plugin.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "",
+    "headers": [],
+    "path": "/base/public.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "",
+    "headers": [],
+    "path": "/base/vite-webpack.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "赞赏",
     "headers": [
       {
@@ -1383,6 +1425,45 @@ export const searchIndex = [
       }
     ],
     "path": "/feature/recommend.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "注册组件",
+    "headers": [
+      {
+        "level": 2,
+        "title": "前言",
+        "slug": "前言",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "使用",
+        "slug": "使用",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "案例",
+        "slug": "案例",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "AuroraGlobal.vue",
+        "slug": "auroraglobal-vue",
+        "children": [
+          {
+            "level": 3,
+            "title": "props",
+            "slug": "props",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "path": "/feature/register.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -3809,6 +3890,13 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "领悟",
+    "headers": [],
+    "path": "/page/writes.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "",
     "headers": [
       {
@@ -3882,6 +3970,13 @@ export const searchIndex = [
       }
     ],
     "path": "/style/icon.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "2d看板娘",
+    "headers": [],
+    "path": "/style/live2d.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -3967,100 +4062,6 @@ export const searchIndex = [
       }
     ],
     "path": "/plugin/bubble/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "vuepress-plugin-player",
-    "headers": [
-      {
-        "level": 2,
-        "title": "使用",
-        "slug": "使用",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "参数",
-        "slug": "参数",
-        "children": [
-          {
-            "level": 3,
-            "title": "songIds",
-            "slug": "songids",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "playlist",
-            "slug": "playlist",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "showPlaylist",
-            "slug": "showplaylist",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "disabledNetEaseMusic",
-            "slug": "disabledneteasemusic",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "serverUrl",
-            "slug": "serverurl",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "localSongs",
-            "slug": "localsongs",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "coverUrl",
-            "slug": "coverurl",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "songs",
-            "slug": "songs",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "path",
-            "slug": "path",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "songName",
-            "slug": "songname",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "cover",
-            "slug": "cover",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/plugin/player/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "serverUrl配置",
-    "headers": [],
-    "path": "/plugin/player/serverUrl.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -4222,6 +4223,100 @@ export const searchIndex = [
       }
     ],
     "path": "/plugin/coze/style.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "vuepress-plugin-player",
+    "headers": [
+      {
+        "level": 2,
+        "title": "使用",
+        "slug": "使用",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "参数",
+        "slug": "参数",
+        "children": [
+          {
+            "level": 3,
+            "title": "songIds",
+            "slug": "songids",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "playlist",
+            "slug": "playlist",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "showPlaylist",
+            "slug": "showplaylist",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "disabledNetEaseMusic",
+            "slug": "disabledneteasemusic",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "serverUrl",
+            "slug": "serverurl",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "localSongs",
+            "slug": "localsongs",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "coverUrl",
+            "slug": "coverurl",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "songs",
+            "slug": "songs",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "path",
+            "slug": "path",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "songName",
+            "slug": "songname",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "cover",
+            "slug": "cover",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "path": "/plugin/player/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "serverUrl配置",
+    "headers": [],
+    "path": "/plugin/player/serverUrl.html",
     "pathLocale": "/",
     "extraFields": []
   },

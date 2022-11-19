@@ -24,11 +24,11 @@ export const themeData = {
         {
           "text": "主题样式配置",
           "children": [
-            "/style/code-style.md",
+            "/style/style.md",
             "/style/icon.md",
             "/style/live2d.md",
             "/style/style.md",
-            "/feature/registercom.md"
+            "/feature/register.md"
           ]
         }
       ]
@@ -174,11 +174,11 @@ export const themeData = {
           "text": "我?"
         },
         {
-          "text": "说说",
+          "text": "我对世界的思考和记录",
           "children": [
             {
-              "text": "说说1",
-              "link": "/mood"
+              "text": "作品",
+              "link": "/page/writes"
             },
             {
               "text": "说说2",
@@ -250,8 +250,8 @@ export const themeData = {
   "lastUpdatedText": "lastTime",
   "logoColor": "#2c3e50",
   "showFont": "程",
-  "heroImg": "/avatar/avatar.jpg",
-  "logo": "/avatar/avatar.png",
+  "heroImg": "/avatar/avatar2.png",
+  "logo": "/avatar/avatar.jpeg",
   "lazyLoadingImg": "/ljz.gif",
   "homePageLazyLoadingImg": "/aurora-loading.gif",
   "customRandomSay": false,

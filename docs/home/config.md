@@ -23,7 +23,7 @@ stick: true
 
 - 推荐阅读
 
-> [主题增加新组件，新页面](../feature/registercom.md)
+> [主题增加新组件，新页面](../feature/register.md)
 >
 > [修改主题默认样式](../style.md)
 >

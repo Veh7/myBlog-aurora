@@ -1,11 +1,11 @@
 const { path } = require("@vuepress/utils");
-const {navbar} = require("./navbar.js")
-const {friendLinks} = require("./friendLinks")
-const {socials} = require("./socials");
-const {randomColor} = require("./randomColor");
-const {siteInformation} = require("./siteInformation");
-const {message} = require("./message");
-const {donate} = require("./donate");
+const {navbar} = require("./public/js/navbar.js")
+const {friendLinks} = require("./public/js/friendLinks")
+const {socials} = require("./public/js/socials");
+const {randomColor} = require("./public/js/randomColor");
+const {siteInformation} = require("./public/js/siteInformation");
+const {message} = require("./public/js/message");
+const {donate} = require("./public/js/donate");
 module.exports = {
     //base: '/REPO/',//如果你准备发布到 https://<USERNAME>.github.io/<REPO>/ ，也就是说你的仓库地址是 https://github.com/<USERNAME>/<REPO> ，则将 base 设置为 "/<REPO>/"。
     /*
@@ -189,7 +189,7 @@ module.exports = {
         * 这里配置导航栏项，建议将navbar提取出，比如navbar.js
         * 使用：https://aurora.xcye.xyz/homeconfig.html#%E5%AF%BC%E8%88%AA%E6%A0%8F
         * 因为navbar会存在很多的配置，所以推荐在该目录下，创建一个navbar.js文件，此文件中，使用module.exports = {navbar: XXX}
-        * 可以参照docs/.vuepress/navbar.js使用，然后在config.js的themeConfig处引入该文件
+        * 可以参照docs/.vuepress/public/js/navbar.js使用，然后在config.js的themeConfig处引入该文件
         * */
         navbar: navbar,
 
@@ -236,10 +236,10 @@ module.exports = {
         showFont: "程",
 
         //首页中间hero图片地址
-        heroImg: '/avatar/avatar.jpg',
+        heroImg: '/avatar/avatar2.png',
 
         //logo图片地址
-        logo: "/avatar/avatar.png",
+        logo: "/avatar/avatar.jpeg",
 
         //文章懒加载图片 仅限文章，首页文章占位图片并不是这个
         lazyLoadingImg: "/ljz.gif",

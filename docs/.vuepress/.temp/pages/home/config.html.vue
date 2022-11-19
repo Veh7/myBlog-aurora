@@ -13,7 +13,7 @@
 <li>推荐阅读</li>
 </ul>
 <blockquote>
-<p><RouterLink to="/feature/registercom.html">主题增加新组件，新页面</RouterLink></p>
+<p><RouterLink to="/feature/register.html">主题增加新组件，新页面</RouterLink></p>
 <p><RouterLink to="/style.html">修改主题默认样式</RouterLink></p>
 <p><RouterLink to="/home/directory-structure.html">主题目录结构</RouterLink></p>
 <p><RouterLink to="/learn/markdown.html">主题写作技巧</RouterLink></p>

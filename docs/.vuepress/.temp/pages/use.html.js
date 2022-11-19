@@ -8,7 +8,16 @@ export const data = {
   },
   "excerpt": "",
   "headers": [],
-  "git": {}
+  "git": {
+    "updatedTime": 1660451769000,
+    "contributors": [
+      {
+        "name": "‘Veh7’",
+        "email": "‘925779572@qq.com’",
+        "commits": 1
+      }
+    ]
+  }
 }
 
 if (import.meta.webpackHot) {
