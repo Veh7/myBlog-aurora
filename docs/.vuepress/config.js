@@ -6,6 +6,7 @@ const {randomColor} = require("./public/js/randomColor");
 const {siteInformation} = require("./public/js/siteInformation");
 const {message} = require("./public/js/message");
 const {donate} = require("./public/js/donate");
+
 module.exports = {
     //base: '/REPO/',//如果你准备发布到 https://<USERNAME>.github.io/<REPO>/ ，也就是说你的仓库地址是 https://github.com/<USERNAME>/<REPO> ，则将 base 设置为 "/<REPO>/"。
     /*
@@ -88,8 +89,8 @@ module.exports = {
                     coverUrl: '/avatar/avatar.jpg',
                     songs: [
                         {
-                            path: '请自己传入mp3或者其他格式的音乐地址',
-                            songName: '12',
+                            path: 'https://music.163.com/#/song?id=29593561',
+                            songName: 'continued story',
                             cover: 'https://p1.music.126.net/Rg1x9LeUacIDqtvUzL35Cw==/109951163688517312.jpg'
                         },
                         {
@@ -197,13 +198,18 @@ module.exports = {
         darkMode: false,
 
         //项目地址，会在顶部导航栏和侧边栏显示GitHub的地址
-        repo: "https://github.com/qsyyke/vuepress-theme-aurora",
+        /*作者大大的*/
+        // repo: "https://github.com/qsyyke/vuepress-theme-aurora",
+        // docsRepo: 'https://github.com/qsyyke/aurora-docs',
+        /*我的*/
+        repo: "https://github.com/Veh7/myBlog-aurora",
 
         //自定义GitHub的图标
         repoIconClass: 'aurora-navbar-github',
 
         //md文件的仓库地址
-        docsRepo: 'https://github.com/qsyyke/aurora-docs',
+
+        docsRepo:'https://github.com/Veh7/myBlog-aurora/tree/master/docs',
 
         /*
         * 站点是否是使用github Actions自动部署，如果你使用github Actions完成自动部署，那么这里一定要为TRUE，为TRUE，假如你把此项目push
@@ -283,17 +289,15 @@ module.exports = {
                 title: "我?",
                 describe: [
                     "这是关于页面支持html<a href='https://blog.cco.vin' target='_blank'>这是一个标签</a>",
-                    "目前是一名大三学生,CS专业,坐标西南边陲",
+                    "目前是一个打工人",
                     "喜欢安静,不喜社交",
-                    "喜欢听音乐,什么类型都可",
-                    "喜欢技术,coding",
-                    "目前正在学习java后端",
-                    '最喜欢的电影是"忠犬八公的故事",梦想以后独居也能有一只"Hachi"',
-                    "主题是我自己开发的，前端太菜了，如果有bug，希望大家多多包涵`Σ(￣□￣||)` ",
+                    "喜欢听音乐,古风、动漫最喜欢的类型",
+                    "喜欢技术,coding,古诗词，时不时写点小东西",
+                    "目前正在学习vuepress、git尝试搭建个人博客",
                     "有点懒",
                     "目前除了编程没有什么兴趣爱好",
-                    "正在追的番有《百妖谱》,《致不灭的你》,《少年歌行》,《鬼灭之刃》,《关于我转生变成史莱姆这档事》...",
-                    "喜欢小说，喜欢的作者是--十月流年，最喜欢的小说《至尊修罗》,《一念永恒》,《星辰变》",
+                    "正在追的番有《jojo的奇妙冒险》,《百妖谱》,《风灵玉秀》...",
+                    "喜欢漫画，最喜欢的作品是--偷星九月天，最喜欢的小说《无限恐怖》,《明朝那些事儿》",
                 ],
                 tag: [
                     "coding",
@@ -645,7 +649,7 @@ module.exports = {
 
         //侧边栏配置
         //github地址
-        githubUrl: "https://github.com/qsyyke/vuepress-theme-aurora",
+        githubUrl: "https://github.com/Veh7/myBlog-aurora",
 
         //最新文章数量，默认为6
         latestPageSize: 6,
@@ -788,7 +792,7 @@ module.exports = {
         homeTopText: '置顶',
 
         //侧边栏一句话描述
-        sidebarDesc: '喜欢动漫，Coding目前是一名大三学生,CS专业,坐标西南边陲',
+        sidebarDesc: '喜欢动漫，jojo、东京食尸鬼',
 
         /*
         * 下面的是v1.13.0版本的配置

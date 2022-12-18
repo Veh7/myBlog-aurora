@@ -241,7 +241,7 @@ module.exports = {
         },
         {
             text: 'Aurora',
-            link: 'https://github.com/vuepress-aurora/vuepress-theme-aurora',
+            link: 'https://github.com/Veh7/myBlog-aurora',
             iconClass: 'aurora-navbar-github1'
         }
     ]

@@ -1,5 +1,6 @@
 # 项目排除路径
 /Aurora-theme/lib/node/auroraTheme.js
 /node_modules/
+/docs/.vuepress/dist
 /docs/.vuepress/.cache
 /docs/.vuepress/.temp

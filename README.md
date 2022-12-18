@@ -14,7 +14,7 @@
 
 > 如果可以的话，能帮我点个Star✨✨么，球球啦
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vuepress-aurora&repo=vuepress-theme-aurora)](https://github.com/vuepress-aurora/vuepress-theme-aurora)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vuepress-aurora&repo=vuepress-theme-aurora)](https://github.com/Veh7/myBlog-aurora)
 
 
 

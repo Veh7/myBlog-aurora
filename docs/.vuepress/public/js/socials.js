@@ -31,7 +31,7 @@ module.exports = {
             sidebar: true
         },
         {
-            aHref: "https://github.com/qsyyke/",
+            aHref: "https://github.com/Veh7/myBlog-aurora",
             isHome: true,
             show: true,
             sidebar: true,
@@ -45,21 +45,21 @@ module.exports = {
             sidebar: true
         },
         {
-            aHref: "https://space.bilibili.com/483962286",
+            aHref: "https://space.bilibili.com/13654244",
             isHome: true,
             show: true,
             sidebar: true,
             symbol: '#icon-bilibili-1'
         },
         {
-            aHref: "https://music.163.com/#/user/home?id=1411050784",
+            aHref: "https://music.163.com/#/user/home?id=319786118",
             isHome: true,
             show: true,
             symbol: '#icon-wangyiyunyinle',
             sidebar: true
         },
         {
-            aHref: "mailto:2291308094@qq.com",
+            aHref: "https://mail.qq.com/",
             isHome: true,
             show: true,
             sidebar: true,
