@@ -73,29 +73,30 @@ module.exports = {
             "player",
             {
                 disableSpace: false,
-                //网易云单个歌单id
-                songIds: ['29723011','1887893189','1421069053'],
-                //网易云歌单
-                playlist: '7082462754',
-                showPlaylist: false,
-                //是否禁用网易云音乐，如果你选择禁用，那么就将使用本地的歌曲，请传入链接
-                disabledNetEaseMusic: false,
-
-                //请求接口的baseURL
-                serverUrl: 'https://netease-cloud-music-api-teal-psi.vercel.app/',
+                // //网易云单个歌单id
+                // songIds: ['29723011','1887893189','1421069053'],
+                // //网易云歌单
+                // playlist: '7082462754',
+                //showPlaylist: true,
+                // //是否禁用网易云音乐，如果你选择禁用，那么就将使用本地的歌曲，请传入链接
+                disabledNetEaseMusic: true,
+                //
+                // //请求接口的baseURL
+                // serverUrl: 'https://netease-cloud-music-api-teal-psi.vercel.app/',
 
                 //本地歌曲
                 localSongs: {
                     coverUrl: '/avatar/avatar.jpg',
                     songs: [
+                        // {
+                        //     path: 'https://music.163.com/#/song?id=29593561',
+                        //     songName: 'continued story',
+                        //     cover: 'https://p1.music.126.net/Rg1x9LeUacIDqtvUzL35Cw==/109951163688517312.jpg'
+                        // },
                         {
-                            path: 'https://music.163.com/#/song?id=29593561',
-                            songName: 'continued story',
-                            cover: 'https://p1.music.126.net/Rg1x9LeUacIDqtvUzL35Cw==/109951163688517312.jpg'
-                        },
-                        {
-                            path: 'song/aa.mp3',//此地址是一个演示
-                            songName: '演示'
+                            path: '/bgm/Continued Story.mp3',//此地址是一个演示
+                            songName: 'Continued Story',
+                            cover:'/avatar/avatar.jpeg'
                         }
                     ]
                 }
@@ -488,13 +489,13 @@ module.exports = {
         * 友情链接数组 推荐单独创建一个friendLinks.js存放友情链接的配置，可以参照navbar项的配置
         * 使用：https://aurora.xcye.xyz/page/friendlink.html
         * */
-        friendLinks: friendLinks,
+       friendLinks: friendLinks,
 
         //自己的站点信息 我自己的站点描述 会显示在友情链接的底部，推荐单独创建一个文件存放
-        siteInformation: siteInformation,
+       siteInformation: siteInformation,
 
         //需要排除的标签，自动生成的标签中，不会有这个标签，这是一个数组
-        //excludeTag: ["note"],
+        excludeTag: ["note"],
 
         //样式控制面板显示的字体，有默认值
         fontFamily: [
@@ -553,7 +554,7 @@ module.exports = {
         defaultBlur: 1,
 
         //手机端，是否在页面的底部显示侧边栏列表，默认开启，如果需要开启，请将此值设置为FALSE
-        //mobilePageSidebar: false,
+        mobilePageSidebar: false,
 
         //tag页面，标签分割符 请不要传入一个空字符串，默认值就是' ' 一个空格
         split: "~",
@@ -802,13 +803,13 @@ module.exports = {
         * 如果你以前使用的是其他的主题或者工具，比如hexo的主题，reco主题等等，发现frontmatter中的标签并不是使用tag字段设置，而是使用比如tags进行设置的
         * 那么你可以像customTagName: 'tags'自定义标签的字段，此配置仅仅针对于md文件设置的标签并不是使用tag字段，请注意，谨慎使用
         * */
-        //customTagName: 'tags',
+        customTagName: 'tags',
 
         /*
        * 如果你以前使用的是其他的主题，比如hexo，reco等等，发现frontmatter中的类别并不是使用categories字段，而是使用比如category进行设置的
        * 那么你可以像customCategoriesName: "category"这样自定义类别的字段，此配置仅仅针对于md文件设置的类别并不是使用categories字段，请注意，谨慎使用
        * */
-        //customCategoriesName: "category",
+        customCategoriesName: "category",
 
         /*
         * 下面这个是v1.13版本新增的配置项

@@ -12,7 +12,7 @@
         "vuepress-plugin-archive": "latest",
         "vuepress-plugin-bubble": "latest",
         "vuepress-plugin-coze": "1.8.0",
-        "vuepress-plugin-player": "latest",
+        "vuepress-plugin-player": "^1.1.8",
         "vuepress-theme-aurora": "1.13.1"
       },
       "devDependencies": {
@@ -6873,9 +6873,9 @@
       }
     },
     "node_modules/vuepress-plugin-player": {
-      "version": "1.1.7",
-      "resolved": "https://registry.npmjs.org/vuepress-plugin-player/-/vuepress-plugin-player-1.1.7.tgz",
-      "integrity": "sha512-fjodZvglJWon2ez2NE2KLpiXd69+tPfD3ERJRz6tkPOt/u+0aPPpHwoOX7dWRUqLXBH/Cb0x/b1adEIpiV5wiQ==",
+      "version": "1.1.8",
+      "resolved": "https://registry.npmmirror.com/vuepress-plugin-player/-/vuepress-plugin-player-1.1.8.tgz",
+      "integrity": "sha512-rkLZCjDz7NDTDkx2xUBNLaI1rJzPcz/9qs1OiAkirPU//CHldoPlh8scQoeCFZk3dpjc1+Ek/J9HH7zKdIux0A==",
       "dependencies": {
         "axios": "^0.21.1"
       }
@@ -12770,9 +12770,9 @@
       }
     },
     "vuepress-plugin-player": {
-      "version": "1.1.7",
-      "resolved": "https://registry.npmjs.org/vuepress-plugin-player/-/vuepress-plugin-player-1.1.7.tgz",
-      "integrity": "sha512-fjodZvglJWon2ez2NE2KLpiXd69+tPfD3ERJRz6tkPOt/u+0aPPpHwoOX7dWRUqLXBH/Cb0x/b1adEIpiV5wiQ==",
+      "version": "1.1.8",
+      "resolved": "https://registry.npmmirror.com/vuepress-plugin-player/-/vuepress-plugin-player-1.1.8.tgz",
+      "integrity": "sha512-rkLZCjDz7NDTDkx2xUBNLaI1rJzPcz/9qs1OiAkirPU//CHldoPlh8scQoeCFZk3dpjc1+Ek/J9HH7zKdIux0A==",
       "requires": {
         "axios": "^0.21.1"
       }
