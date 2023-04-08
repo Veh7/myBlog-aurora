@@ -293,7 +293,7 @@ module.exports = {
                 sidebar: true
             },
             {
-                aHref: "mailto:2291308094@qq.com",
+                aHref: "925779572@qq.com",
                 isHome: true,
                 show: true,
                 sidebar: true,

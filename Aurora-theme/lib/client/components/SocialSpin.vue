@@ -4,7 +4,7 @@
     <span class="bg_links social portfolio" >
       <span @click="openEdit" class="icon"></span>
     </span>
-    <a class="bg_links social dribbble" href="https://github.com/qsyyke/vuepress-theme-aurora" target="_blank">
+    <a class="bg_links social dribbble" href="https://github.com/Veh7/" target="_blank">
       <span class="icon"></span>
     </a>
     <div class="">

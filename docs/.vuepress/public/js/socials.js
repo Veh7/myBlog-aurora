@@ -21,49 +21,49 @@ module.exports = {
             //鼠标移入此图标时，显示的图片，适用于微信等通过二维码添加好友
             // showImgSrc: "/aurora/wechat.jpg",
         },
+        // {
+        //     aHref: "javascript:;",
+        //     //imgSrc: /assets/img/ico/wechat.svg,
+        //     showImgSrc: "/wechat.jpg",
+        //     isHome: true,
+        //     show: true,
+        //     symbol: '#icon-weixin',
+        //     sidebar: true
+        // },
         {
-            aHref: "javascript:;",
-            //imgSrc: /assets/img/ico/wechat.svg,
-            showImgSrc: "/wechat.jpg",
-            isHome: true,
-            show: true,
-            symbol: '#icon-weixin',
-            sidebar: true
-        },
-        {
-            aHref: "https://github.com/qsyyke/",
+            aHref: "https://github.com/Veh7/",
             isHome: true,
             show: true,
             sidebar: true,
             symbol: '#icon-github-fill'
         },
+        // {
+        //     aHref: "https://stackoverflow.com/",
+        //     isHome: true,
+        //     show: true,
+        //     symbol: '#icon-stackoverflow',
+        //     sidebar: true
+        // },
         {
-            aHref: "https://stackoverflow.com/",
-            isHome: true,
-            show: true,
-            symbol: '#icon-stackoverflow',
-            sidebar: true
-        },
-        {
-            aHref: "https://space.bilibili.com/483962286",
+            aHref: "https://space.bilibili.com/13654244",
             isHome: true,
             show: true,
             sidebar: true,
             symbol: '#icon-bilibili-1'
         },
         {
-            aHref: "https://music.163.com/#/user/home?id=1411050784",
+            aHref: "https://music.163.com/#/user/home?id=319786118",
             isHome: true,
             show: true,
             symbol: '#icon-wangyiyunyinle',
             sidebar: true
         },
-        {
-            aHref: "mailto:2291308094@qq.com",
-            isHome: true,
-            show: true,
-            sidebar: true,
-            symbol: '#icon-email'
-        },
+        // {
+        //     aHref: "925779572@qq.com",
+        //     isHome: true,
+        //     show: true,
+        //     sidebar: true,
+        //     symbol: '#icon-email'
+        // },
     ]
 }
