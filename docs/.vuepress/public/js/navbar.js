@@ -38,136 +38,136 @@ module.exports = {
                 }
             ]
         },
-        {
-            text: '基本知识',
-            iconClass: 'aurora-navbar-si-glyph-billiard-ball',
-            children: [
-                {
-                    text: '静态文件',
-                    children: [
-                        '/base/public.md',
-                    ]
-                },
-                {
-                    text: "插件使用",
-                    children: [
-                        '/base/plugin.md'
-                    ]
-                },
-                {
-                    text: "docs目录结构",
-                    children: [
-                        '/base/docs.md'
-                    ]
-                },
-                {
-                    text: 'cmd管理员权限',
-                    children: [
-                        '/base/admin.md'
-                    ]
-                },
-                {
-                    text: 'npm常见命令',
-                    children: [
-                        '/base/command.md'
-                    ]
-                }
-            ]
-        },
-        {
-            text: '问题和bug',
-            iconClass: 'aurora-navbar-shoulijindu-xuanzhong',
-            children: [
-                {
-                    text: 'node安装教程',
-                    children: [
-                        //'/readme/introduce.md',
-                        '/node.md'
-                    ]
-                },
-                {
-                    text: 'bug',
-                    children: [
-                        '/issue/bug.md',
-                    ]
-                },
-                {
-                    text: '更新日志',
-                    children: [
-                        '/issue/CHANGELOG.md'
-                    ]
-                },
-                {
-                    text: '运行常见错误',
-                    children: [
-                        '/issue/common.md'
-                    ]
-                }
-
-            ]
-        },
-        {
-            text: '其他配置',
-            iconClass: 'aurora-navbar-weather',
-            children: [
-                {
-                    children: [
-                        "/home/deploy.md",
-                    ],
-                    text: "home",
-                },
-                {
-                    children: [
-                        "/comment/README.md",
-
-                        "/page/README.md",
-                    ],
-                    text: "其他配置",
-                },
-                {
-                    text: 'webpack和vite切换',
-                    children: [
-                        '/base/vite-webpack.md'
-                    ]
-                }
-            ],
-        },
-        {
-            text: '插件',
-            iconClass: 'aurora-navbar-si-glyph-egg',
-            children: [
-                {
-                    children: [
-                        "/plugin/archive/readme.md",
-                    ],
-                    text: "时间轴",
-                },
-                {
-                    children: [
-                        "/plugin/bubble/readme.md",
-                    ],
-                    text: "浪漫气泡",
-                },
-                {
-                    children: [
-                        "/plugin/coze/readme.md",
-                    ],
-                    text: "说说",
-                },
-                {
-                    children: [
-                        "/plugin/player/readme.md",
-                    ],
-                    text: "音乐播放器",
-                },
-                {
-                    text: '看板娘',
-                    children: [
-                        '/style/live2d.md'
-                    ]
-                }
-            ],
-        },
+        // {
+        //     text: '基本知识',
+        //     iconClass: 'aurora-navbar-si-glyph-billiard-ball',
+        //     children: [
+        //         {
+        //             text: '静态文件',
+        //             children: [
+        //                 '/base/public.md',
+        //             ]
+        //         },
+        //         {
+        //             text: "插件使用",
+        //             children: [
+        //                 '/base/plugin.md'
+        //             ]
+        //         },
+        //         {
+        //             text: "docs目录结构",
+        //             children: [
+        //                 '/base/docs.md'
+        //             ]
+        //         },
+        //         {
+        //             text: 'cmd管理员权限',
+        //             children: [
+        //                 '/base/admin.md'
+        //             ]
+        //         },
+        //         {
+        //             text: 'npm常见命令',
+        //             children: [
+        //                 '/base/command.md'
+        //             ]
+        //         }
+        //     ]
+        // },
+        // {
+        //     text: '问题和bug',
+        //     iconClass: 'aurora-navbar-shoulijindu-xuanzhong',
+        //     children: [
+        //         {
+        //             text: 'node安装教程',
+        //             children: [
+        //                 //'/readme/introduce.md',
+        //                 '/node.md'
+        //             ]
+        //         },
+        //         {
+        //             text: 'bug',
+        //             children: [
+        //                 '/issue/bug.md',
+        //             ]
+        //         },
+        //         {
+        //             text: '更新日志',
+        //             children: [
+        //                 '/issue/CHANGELOG.md'
+        //             ]
+        //         },
+        //         {
+        //             text: '运行常见错误',
+        //             children: [
+        //                 '/issue/common.md'
+        //             ]
+        //         }
+        //
+        //     ]
+        // },
+        // {
+        //     text: '其他配置',
+        //     iconClass: 'aurora-navbar-weather',
+        //     children: [
+        //         {
+        //             children: [
+        //                 "/home/deploy.md",
+        //             ],
+        //             text: "home",
+        //         },
+        //         {
+        //             children: [
+        //                 "/comment/README.md",
+        //
+        //                 "/page/README.md",
+        //             ],
+        //             text: "其他配置",
+        //         },
+        //         {
+        //             text: 'webpack和vite切换',
+        //             children: [
+        //                 '/base/vite-webpack.md'
+        //             ]
+        //         }
+        //     ],
+        // },
+        // {
+        //     text: '插件',
+        //     iconClass: 'aurora-navbar-si-glyph-egg',
+        //     children: [
+        //         {
+        //             children: [
+        //                 "/plugin/archive/readme.md",
+        //             ],
+        //             text: "时间轴",
+        //         },
+        //         {
+        //             children: [
+        //                 "/plugin/bubble/readme.md",
+        //             ],
+        //             text: "浪漫气泡",
+        //         },
+        //         {
+        //             children: [
+        //                 "/plugin/coze/readme.md",
+        //             ],
+        //             text: "说说",
+        //         },
+        //         {
+        //             children: [
+        //                 "/plugin/player/readme.md",
+        //             ],
+        //             text: "音乐播放器",
+        //         },
+        //         {
+        //             text: '看板娘',
+        //             children: [
+        //                 '/style/live2d.md'
+        //             ]
+        //         }
+        //     ],
+        // },
         {
             text: 'life',
             iconClass: 'aurora-navbar-hua2',
@@ -188,10 +188,6 @@ module.exports = {
                         {
                             text: '作品',
                             link: '/page/writes'
-                        },
-                        {
-                            text: '说说2',
-                            link: '/next-mood'
                         }
                     ],
                 },
@@ -228,17 +224,16 @@ module.exports = {
                 },
             ],
         },
-
-        {
-            text: '友情链接',
-            link: '/link',
-            iconClass: 'aurora-navbar-guide'
-        },
-        {
-            text: '案例',
-            link: '/use.html',
-            iconClass: 'aurora-navbar-si-glyph-load'
-        },
+        // {
+        //     text: '友情链接',
+        //     link: '/link',
+        //     iconClass: 'aurora-navbar-guide'
+        // },
+        // {
+        //     text: '案例',
+        //     link: '/use.html',
+        //     iconClass: 'aurora-navbar-si-glyph-load'
+        // },
         {
             text: 'Aurora',
             link: 'https://github.com/Veh7/myBlog-aurora',

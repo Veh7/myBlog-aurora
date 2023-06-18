@@ -159,6 +159,7 @@ module.exports = {
             }
         ],
     ],
+
     /*
     * 设置head 一定要加入<script src="https://at.alicdn.com/t/font_2849934_v6y652peian.js"></script>项配置，否则一些图标不能正常显示
     * 如果你需要额外引入css样式或者是js文件，请在head中引入，如何引入，可以参照下面的引入方式
@@ -195,6 +196,7 @@ module.exports = {
             }
         ]*/
     ],
+
     //这里使用本地主题
     //theme: path.resolve(__dirname, "../../Aurora-theme/lib/node/index.js"),
     theme: 'aurora',
@@ -340,7 +342,7 @@ module.exports = {
             },
             {
                 bar: false,
-                title: "大三规划",
+                title: "人生规划",
                 describe: [
                     "过好当下，记录此生",
                     "自在随心，不以物喜，不以己悲",
@@ -355,143 +357,7 @@ module.exports = {
                 describe: ["认真工作搞钱", "学写作写点自己的小东西，有没有观众不重要","学做饭，认真生活"],
                 tag: ["忘记过去，展望未来"],
                 showTag: true,
-            },
-            // {
-            //     bar: true,
-            //     title: "技  能",
-            //     describe: [
-            //         {
-            //             name: "java",
-            //             score: 70,
-            //         },
-            //         {
-            //             name: "HTML5",
-            //             score: 87,
-            //         },
-            //         {
-            //             name: "javascript",
-            //             score: 82,
-            //         },
-            //         {
-            //             name: "css",
-            //             score: 73,
-            //         },
-            //         {
-            //             name: "python",
-            //             score: 50,
-            //         },
-            //         {
-            //             name: "redis",
-            //             score: 59,
-            //         },
-            //         {
-            //             name: "mysql",
-            //             score: 82,
-            //         },
-            //         {
-            //             name: "vue",
-            //             score: 60,
-            //         },
-            //         {
-            //             name: "spring",
-            //             score: 71,
-            //         },
-            //         {
-            //             name: "springMVC",
-            //             score: 77,
-            //         },
-            //         {
-            //             name: "springBoot",
-            //             score: 71,
-            //         },
-            //     ],
-            //     showTag: false,
-            // },
-            //
-            // {
-            //     showTag: false,
-            //     bar: true,
-            //     title: "掌握框架",
-            //     describe: [
-            //         {
-            //             name: "spring",
-            //             score: 79,
-            //         },
-            //         {
-            //             name: "springMVC",
-            //             score: 81,
-            //         },
-            //         {
-            //             name: "springBoot",
-            //             score: 82,
-            //         },
-            //         {
-            //             name: "mybatis",
-            //             score: 82,
-            //         },
-            //         {
-            //             name: "vue",
-            //             score: 60,
-            //         },
-            //         {
-            //             name: "dubbo",
-            //             score: 61,
-            //         },
-            //     ],
-            // },
-            // {
-            //     bar: true,
-            //     showTag: false,
-            //     title: "掌握技能",
-            //     describe: [
-            //         {
-            //             name: "jetbrains",
-            //             score: 75,
-            //         },
-            //         {
-            //             name: "linux",
-            //             score: 68,
-            //         },
-            //         {
-            //             name: "git",
-            //             score: 78,
-            //         },
-            //         {
-            //             name: "Ctrl C V",
-            //             score: 100,
-            //         },
-            //     ],
-            // },
-            // {
-            //     title: "关于主题",
-            //     describe: [
-            //         "theme-ccds主题是我自己独立开发，是一款基于vuepress，对默认主题进行了大量修改，我以前使用的是wordpress的博客主题，但是我对PHP不了解，想改成自己想要的主题，太难了，最近在学vue，正好看到可以使用vuepress来搭建 博客，就将默认主题改成现在这个样，并且喜欢vuepress的最主要原因是，它可以 直接将本地的markdown文档进行编译部署，我原来博客，我记了几个月的笔记，不太想再慢慢从本地复制到WordPress进行发布，以至于博客几个月没有发布文章了，虽然有技术可以解决，但还是喜欢vuepress，简直是懒癌福音，如果你喜欢的话，可以在我的GitHub进行下载，使用文档可以查看https://aurora.xcye.xyz，该主题已将所有的配置进行抽离，你现在看到的所有信息，都抽离在了一个配置文件中，但是目前还并不能做到开箱即用，如果使用的人多了，我可以进行修改，并且我自己也写了几个组件，包括文章页面看到的顶部图片，友情链接，海报分享功能等等 ，可以在你想使用的地方，直接使用这些组件就可以，该主题我加入了vuex，对前端不太了解，有很多css不对的地方，请大家多多包涵，Thanks♪(･ω･)ﾉ",
-            //     ],
-            // },
-            {
-                bar: false,
-                title: "更新日志",
-                describe: [
-                    "开发永不止步......",
-                    "2021.9.12 增加相册功能，解决已知bug",
-                    "2021.9.9 增加海报分享功能",
-                    "2021.9.5 重新修改文章SEO自动配置，使用新规则，解决从tag页面进入文章页面，懒加载失效问题",
-                    "2021.9.4 重新初始化仓库",
-                    "2.21.8.10 -- 2021.9 主题开发",
-                ],
-                tag: ['想求个star`(⌒▽⌒)`'],
-                showTag: true,
-            },
-            {
-                title: "主题后续计划及闲话",
-                bar: false,
-                tag: [],
-                showTag: false,
-                describe: [
-                    "为说说页面增加随时发布，随时修改功能",
-                    "增加每日计划打卡功能",
-                ],
-            },
+            }
         ],
 
         //这是配置随机背景；颜色 可以不设置，有默认值 推荐单独创建一个random.js文件
@@ -724,25 +590,25 @@ module.exports = {
         articlePagination: true,
 
         //这个global暂时没用
-        global: {
-            sidebar: {
-                showStatus: true,
-                perData: false,
-                social: false,
-                friendLink: true,
-                navbar: false,
-                latestPage: true,
-                message: false,
-                tag: true,
-                siteData: false
-            },
-            footer: false,
-        },
+        // global: {
+        //     sidebar: {
+        //         showStatus: true,
+        //         perData: false,
+        //         social: false,
+        //         friendLink: true,
+        //         navbar: false,
+        //         latestPage: true,
+        //         message: false,
+        //         tag: true,
+        //         siteData: false
+        //     },
+        //     footer: false,
+        // },
 
-        //excludeTag: ["note"], 此配置项，不再需要使用
-
-        //在统计文章，标签，类别的时候，需要排除的路径，只针对于根目录下的路径，
-        excludePath: ['/footer.html','/v1.3.0/','/plugin/',"/node.html","/style.html"],
+        // excludeTag: ["note"], //此配置项，不再需要使用
+        //
+        // //在统计文章，标签，类别的时候，需要排除的路径，只针对于根目录下的路径，
+        // excludePath: ['/footer.html','/v1.3.0/','/plugin/',"/node.html","/style.html"],
 
         //类别项是否包含文件夹名，默认包含
         categoriesIncludeFolderName: false,
