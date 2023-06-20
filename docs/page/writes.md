@@ -1,6 +1,6 @@
 # 我对世界的思考和记录
 ## 领悟
-> 1. 傲慢和偏见 我记得标题sss的这句话， “ I was in the middle before I knew that I had begun.”  个人更喜欢在网上看到翻译为“直到我情陷其中，才知自己早已萌生爱意。”读起来更加有韵味。
+> 1. 傲慢和偏见 我记得标题的这句话， “ I was in the middle before I knew that I had begun.”  个人更喜欢在网上看到翻译为“直到我情陷其中，才知自己早已萌生爱意。”读起来更加有韵味。
 >
 > 2. 藏兽于心，忍魔于腹
 >
