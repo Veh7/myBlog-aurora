@@ -186,10 +186,19 @@ module.exports = {
                     text: '我对世界的思考和记录',
                     children:[
                         {
-                            text: '作品',
+                            text: '诗语',
                             link: '/page/writes'
                         }
                     ],
+                },{
+                    text:'领悟',
+                    children: [
+                        {
+                            text: '领悟',
+                            link: '/page/knowAbout'
+                        }
+                    ]
+
                 },
                 {
                     text: "相册",
