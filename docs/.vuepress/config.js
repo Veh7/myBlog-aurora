@@ -4,7 +4,7 @@ const {friendLinks} = require("./public/js/friendLinks")
 const {socials} = require("./public/js/socials");
 const {randomColor} = require("./public/js/randomColor");
 const {siteInformation} = require("./public/js/siteInformation");
-const {message} = require("./public/js/message");
+const {message} = ("./public/js/message");
 const {donate} = require("./public/js/donate");
 
 module.exports = {
