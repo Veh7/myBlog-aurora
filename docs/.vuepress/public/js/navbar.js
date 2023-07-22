@@ -183,19 +183,19 @@ module.exports = {
                     text: "我?",
                 },
                 {
-                    text: '我对世界的思考和记录',
+                    text: '我的思考和写作合集',
                     children:[
                         {
                             text: '诗语',
-                            link: '/page/writes'
+                            link: '/myOwn/writes.md'
                         }
                     ],
                 },{
-                    text:'领悟',
+                    text:'我对世界的思考和记录',
                     children: [
                         {
                             text: '领悟',
-                            link: '/page/knowAbout'
+                            link: '/myOwn/knowAbout.md'
                         }
                     ]
 

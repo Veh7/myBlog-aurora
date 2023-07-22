@@ -316,7 +316,7 @@ module.exports = {
                 bar: false,
                 title: "我?",
                 describe: [
-                    "这是关于页面支持html<a href='https://blog.cco.vin' target='_blank'>这是一个标签</a>",
+                    // "这是关于页面支持html<a href='https://blog.cco.vin' target='_blank'>这是一个标签</a>",
                     "目前是一个打工人",
                     "喜欢安静,不喜社交",
                     "喜欢听音乐,古风、动漫最喜欢的类型",
