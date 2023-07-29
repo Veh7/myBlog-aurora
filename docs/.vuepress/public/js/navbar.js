@@ -187,7 +187,7 @@ module.exports = {
                     children:[
                         {
                             text: '诗语',
-                            link: '/myOwn/writes.md'
+                            link: '/myOwn/writes'
                         }
                     ],
                 },{
@@ -195,7 +195,7 @@ module.exports = {
                     children: [
                         {
                             text: '领悟',
-                            link: '/myOwn/knowAbout.md'
+                            link: '/myOwn/knowAbout'
                         }
                     ]
 
