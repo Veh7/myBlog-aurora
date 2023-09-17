@@ -31,7 +31,20 @@ module.exports = {
                             link: '/myOwn/writes'
                         }
                     ],
-                },{
+                },
+                {
+                    text:'说世',
+                    children:[
+                        {
+                            text: '红河',
+                            link: '/myOwn/novels/original/redRiver'
+                        },
+                        {
+                            text: '源',
+                         link: '/myOwn/novels/original/origin'
+                        }
+                    ]},
+                {
                     text:'我对世界的思考和记录',
                     children: [
                         {
