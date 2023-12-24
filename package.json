@@ -16,10 +16,12 @@
     "vuepress-webpack": "2.0.0-beta.33"
   },
   "dependencies": {
+    "oh-my-live2d": "^0.3.0",
     "vuepress-plugin-archive": "latest",
     "vuepress-plugin-bubble": "latest",
     "vuepress-plugin-coze": "1.8.0",
+    "vuepress-plugin-live2d-plus": "^0.2.2",
     "vuepress-plugin-player": "^1.1.8",
-    "vuepress-theme-aurora": "1.13.1"
+    "vuepress-theme-aurora": "1.13.4"
   }
 }

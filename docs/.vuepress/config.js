@@ -7,6 +7,7 @@ const {siteInformation} = require("./public/js/siteInformation");
 const {message} = ("./public/js/message");
 const {donate} = require("./public/js/donate");
 
+
 module.exports = {
     //base: '/REPO/',//如果你准备发布到 https://<USERNAME>.github.io/<REPO>/ ，也就是说你的仓库地址是 https://github.com/<USERNAME>/<REPO> ，则将 base 设置为 "/<REPO>/"。
     /*
@@ -28,8 +29,9 @@ module.exports = {
     * 插件plugins是一个数组，官方介绍: https://v2.vuepress.vuejs.org/zh/guide/plugin.html
     * */
     plugins: [
-        "@vuepress/plugin-search",
-        {
+        [
+            "@vuepress/plugin-search",
+            {
             locales: {
                 "/": {
                     placeholder: "Search",
@@ -38,7 +40,8 @@ module.exports = {
                     placeholder: "搜索",
                 },
             },
-        },
+        }
+        ],
         /*
         * 在主题中，使用path.resolve(__dirname,的地方，都是使用本地的插件或者主题，看位置
         * 这里是配置说说插件，使用https://aurora.xcye.xyz/plugin/coze/
@@ -158,6 +161,29 @@ module.exports = {
                 zIndex: -2
             }
         ],
+        /*2D看板娘
+        * https://aurora.xcye.xyz/style/live2d.html
+        * */
+        // ['vuepress-plugin-live2d-plus', {
+        //     enable: true,
+        //     model: {
+        //         url: 'https://cdn.jsdelivr.net/gh/qsyyke/vscode-live2d-models/model-library/haru02/haru02.model.json'
+        //     },
+        //     display: {
+        //         position: 'left',
+        //         width: '135px',
+        //         height: '300px',
+        //         xOffset: '5%',
+        //         yOffset: '5%'
+        //     },
+        //     mobile: {
+        //         show: true
+        //     },
+        //     react: {
+        //         opacity: 0.8
+        //     }
+        // }
+        // ]
     ],
 
     /*

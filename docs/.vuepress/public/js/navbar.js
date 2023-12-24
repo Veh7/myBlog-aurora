@@ -42,6 +42,10 @@ module.exports = {
                         {
                             text: '源',
                          link: '/myOwn/novels/original/origin'
+                        },
+                        {
+                            text: '恶人',
+                            link: '/myOwn/novels/original/evilCreatures'
                         }
                     ]},
                 {
