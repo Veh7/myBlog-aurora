@@ -96,9 +96,15 @@ module.exports = {
                         //     songName: 'continued story',
                         //     cover: 'https://p1.music.126.net/Rg1x9LeUacIDqtvUzL35Cw==/109951163688517312.jpg'
                         // },
+
                         {
                             path: '/bgm/Continued Story.mp3',
                             songName: 'Continued Story',
+                            cover:'/avatar/avatar.jpeg'
+                        },
+                        {
+                            path: '/bgm/只是忘了回家的路.mp3',
+                            songName: '只是忘了回家的路',
                             cover:'/avatar/avatar.jpeg'
                         },
                         {
@@ -527,9 +533,8 @@ module.exports = {
 
             //文章顶部图片，数组，每次从数组中随机选择一张
             page: [
-                "/bg/555260.png",
-                '/bg/404901.png',
-                '/bg/734386.png'
+                "/bg/classRoom.png",
+                '/bg/girl.png'
             ],
             //友情链接页面
             friend: [
