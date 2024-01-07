@@ -128,8 +128,8 @@ module.exports = {
                             cover:'/avatar/avatar.jpeg'
                         },
                         {
-                            path: '/bgm/我的天空.mp3',
-                            songName: '我的天空',
+                            path: '/bgm/Life Is Like A Boat.mp3',
+                            songName: 'Life Is Like A Boat',
                             cover:'/avatar/avatar.jpeg'
                         }
                     ]
