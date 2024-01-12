@@ -131,6 +131,11 @@ module.exports = {
                             path: '/bgm/Life Is Like A Boat.mp3',
                             songName: 'Life Is Like A Boat',
                             cover:'/avatar/avatar.jpeg'
+                        },
+                        {
+                            path: '/bgm/破茧.mp3',
+                            songName: '破茧',
+                            cover:'/avatar/avatar.jpeg'
                         }
                     ]
                 }

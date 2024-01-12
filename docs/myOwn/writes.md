@@ -50,8 +50,12 @@
 >
 >    <div style="font-family: STXingkai;font-size:20px">步用形声，抬望眼不觉来处，不去返。孤道是寻常，尽头涣离往昔，是此生。</div><br/>
 >
-> 5. <div style="font-family: STXingkai;font-size:30px">灵魂摆渡</div><br/>
->
+> 5. <div style="font-family: STXingkai;font-size:30px">观解玉骢骄</div><br/>
+>      <div style="font-family: STXingkai;font-size:20px">葱茏间窥羡琼瑶，桥解障泥玉骢骁。</div><br/>
+>    <div style="font-family: STXingkai;font-size:20px">叫啸踏碎绯玉橑，惊断云梦骸，浪羁霄！</div><br/>
+>    <div style="font-family: STXingkai;font-size:20px">霄间客解逸寻迷，迷醉坠沿芳草，芳草间，舒沽幽渊唤鲸叫！</div><br/>
+> 6. <div style="font-family: STXingkai;font-size:30px">灵魂摆渡</div><br/>
+> 
 >    <div style="font-family: STXingkai;font-size:20px">孤灵千岁曲，</div><br/>
 >
 >    <div style="font-family: STXingkai;font-size:20px">吏扬魂生续。</div><br/>
@@ -60,13 +64,13 @@
 >
 >    <div style="font-family: STXingkai;font-size:20px">冬色回青渡。</div><br/>
 >
-> 6. <div style="font-family: STXingkai;font-size:30px">柔情水，居无定。</div><br/>
+> 7. <div style="font-family: STXingkai;font-size:30px">柔情水，居无定。</div><br/>
 >
 >    <div style="font-family: STXingkai;font-size:20px">原见旧晚笙隆，顾看座席返空，别无他是。</div><br/>
 >
 >    <div style="font-family: STXingkai;font-size:20px">重作罢，戏演余生。夕日沦下又明朝！赤鸢仙回晴峦颠。</div><br/>
 >
-> 7. <div style="font-family: STXingkai;font-size:30px">观诗阅井</div><br/>
+> 8. <div style="font-family: STXingkai;font-size:30px">观诗阅井</div><br/>
 >
 >    <div style="font-family: STXingkai;font-size:20px">卷抚诗书涧中潭，</div><br/>
 >
@@ -80,7 +84,7 @@
 >
 >    <div style="font-family: STXingkai;font-size:20px">机心冰涣玄机参。</div><br/>
 >
-> 8. <div style="font-family: STXingkai;font-size:30px">镜花水月歌</div><br/>
+> 9. <div style="font-family: STXingkai;font-size:30px">镜花水月歌</div><br/>
 >
 >    <div style="font-family: STXingkai;font-size:20px">镜世两离分，</div><br/>
 >
@@ -90,25 +94,37 @@
 >
 >    <div style="font-family: STXingkai;font-size:20px">独卷掩月温。</div><br/>
 >
-> 9. <div style="font-family: STXingkai;font-size:30px">神游方外</div><br/>
+> 10. <div style="font-family: STXingkai;font-size:30px">神游方外</div><br/>
 >
->    <div style="font-family: STXingkai;font-size:20px">素游云莱别无间，红袖着香拭笼砂。</div><br/>
+>     <div style="font-family: STXingkai;font-size:20px">素游云莱别无间，红袖着香拭笼砂。</div><br/>
 >
->    <div style="font-family: STXingkai;font-size:20px">思予客过人间处，见落桃花散着衫。</div><br/>
+>     <div style="font-family: STXingkai;font-size:20px">思予客过人间处，见落桃花散着衫。</div><br/>
 >
->    <div style="font-family: STXingkai;font-size:20px">湖上经风好读诗，月下青鸾回鸣痴。</div><br/>
+>     <div style="font-family: STXingkai;font-size:20px">湖上经风好读诗，月下青鸾回鸣痴。</div><br/>
 >
->    <div style="font-family: STXingkai;font-size:20px">该是回还身去处，今古离殇韵销魂。</div><br/>
+>     <div style="font-family: STXingkai;font-size:20px">该是回还身去处，今古离殇韵销魂。</div><br/>
 >
-> 10. <div style="font-family: STXingkai;font-size:30px">观倩女绮泪</div><br/>
+> 11. <div style="font-family: STXingkai;font-size:30px">夏夜蝉心响</div><br/>
 >
->     <div style="font-family: STXingkai;font-size:20px">鉴中人，谁是观？</div><br/>
+>     <div style="font-family: STXingkai;font-size:20px">嘁嘁蝉鸣，自是卷乱昏帐。</div><br/>
+>     <div style="font-family: STXingkai;font-size:20px">闻尔近身，却见孤鸿凄让。</div><br/>
+>     <div style="font-family: STXingkai;font-size:20px">断了旭思，元是顾心自赏。</div><br/>
+>     <div style="font-family: STXingkai;font-size:20px">执笔非念，挥尽相思泪往。</div><br/>
+> 12. <div style="font-family: STXingkai;font-size:30px">杨花落</div><br/>
 >
->     <div style="font-family: STXingkai;font-size:20px">廊中长离悬铃响，拾熟媚，顾身来。还是眼后那般景，飞身万里觅寻那场风。</div><br/>
+>     <div style="font-family: STXingkai;font-size:20px">痴远离多，自蛮风起，但孤诩。抛家弃身，落是从听教坠。</div><br/>
+>     <div style="font-family: STXingkai;font-size:20px">坠见前从，似是傍系寻身。</div><br/>
+>     <div style="font-family: STXingkai;font-size:20px">观后弦，却肖寻无路，鸢飞衔入旧窗台，凭吹覆！</div><br/>
+> 
+> 13. <div style="font-family: STXingkai;font-size:30px">观倩女绮泪</div><br/>
 >
->     <div style="font-family: STXingkai;font-size:20px">别无泪，静照灯火话凄凉。</div><br/>
+>      <div style="font-family: STXingkai;font-size:20px">鉴中人，谁是观？</div><br/>
 >
-> 11. <div style="font-family: STXingkai;font-size:30px">憩游神怀天地有感  </div><br/> 
+>      <div style="font-family: STXingkai;font-size:20px">廊中长离悬铃响，拾熟媚，顾身来。还是眼后那般景，飞身万里觅寻那场风。</div><br/>
+>
+>      <div style="font-family: STXingkai;font-size:20px">别无泪，静照灯火话凄凉。</div><br/>
+>
+> 14. <div style="font-family: STXingkai;font-size:30px">憩游神怀天地有感  </div><br/> 
 >
 >     <div style="font-family: STXingkai;font-size:20px">愿尽时思莫难同，缘褪此路道始空。</div><br/>
 >
@@ -120,7 +136,7 @@
 >
 >     <div style="font-family: STXingkai;font-size:20px">疏影横斜水清浅，暗香浮动月黄昏。</div><br/>
 >
-> 12. <div style="font-family: STXingkai;font-size:30px">游乐言</div><br/>
+> 15. <div style="font-family: STXingkai;font-size:30px">游乐言</div><br/>
 >     <div style="font-family: STXingkai;font-size:20px">元应中山无暇客，暮闻铭前千秋鹤。</div><br/>
 >
 >     <div style="font-family: STXingkai;font-size:20px">踏妒扬愤简道侧，曦在人间云觅乐。</div><br/>
@@ -129,14 +145,14 @@
 >
 >     <div style="font-family: STXingkai;font-size:20px">莫向青天问白箭，不问缘何心在安。</div><br/>
 >
-> 13. <div style="font-family: STXingkai;font-size:30px">闲云世间客</div><br/>
+> 16. <div style="font-family: STXingkai;font-size:30px">闲云世间客</div><br/>
 >
 >     <div style="font-family: STXingkai;font-size:20px">我本山中人，偶坐堂前客。</div><br/>
 >
 >     <div style="font-family: STXingkai;font-size:20px">扶风踏世尘，惊起闲云鹤。</div><br/>
 >
-> 14. <div style="font-family: STXingkai;font-size:30px">聚散离</div><br/>
-> 
+> 17. <div style="font-family: STXingkai;font-size:30px">聚散离</div><br/>
+>
 >     <div style="font-family: STXingkai;font-size:20px">顿开云集梦起时，</div><br/>
 >
 >     <div style="font-family: STXingkai;font-size:20px">话终风起娴涌刻。</div><br/>
@@ -145,7 +161,7 @@
 >
 >     <div style="font-family: STXingkai;font-size:20px">离别此是最难时。</div><br/>
 >
-> 15. <div style="font-family: STXingkai;font-size:30px">梦古道夜行</div><br/>
+> 18. <div style="font-family: STXingkai;font-size:30px">梦古道夜行</div><br/>
 >
 >     <div style="font-family: STXingkai;font-size:20px">菊篱藩外难觅静，</div><br/>
 >
@@ -159,7 +175,7 @@
 >
 >     <div style="font-family: STXingkai;font-size:20px">遥负千川望神州。</div><br/>
 >
-> 16. <div style="font-family: STXingkai;font-size:30px">无题</div><br/>
+> 19. <div style="font-family: STXingkai;font-size:30px">无题</div><br/>
 >
 >     <div style="font-family: STXingkai;font-size:20px">日照晴天虽静好，风卷残云收。</div><br/>
 >
@@ -169,7 +185,7 @@
 >
 >     <div style="font-family: STXingkai;font-size:20px">敬羡人间回春寂，蹉跎志消磨。</div><br/>
 >
-> 17. <div style="font-family: STXingkai;font-size:30px">无题二</div><br/>
+> 20. <div style="font-family: STXingkai;font-size:30px">无题二</div><br/>
 >
 >     <div style="font-family: STXingkai;font-size:20px">孰将岁月吟语陈，</div><br/>
 >
@@ -179,7 +195,7 @@
 >
 >     <div style="font-family: STXingkai;font-size:20px">一夜一灯一扁舟。</div><br/>
 >
-> 18. <div style="font-family: STXingkai;font-size:30px">孤幻 见仙舞</div><br/>
+> 21. <div style="font-family: STXingkai;font-size:30px">孤幻 见仙舞</div><br/>
 >
 >     <div style="font-family: STXingkai;font-size:20px">神机窥惊鸿，</div><br/>
 >
@@ -193,19 +209,19 @@
 >
 >     <div style="font-family: STXingkai;font-size:20px">瑶台会见身。</div><br/>
 >
-> 19. <div style="font-family: STXingkai;font-size:30px">心洒江</div><br/>
+> 22. <div style="font-family: STXingkai;font-size:30px">心洒江</div><br/>
 >     <div style="font-family: STXingkai;font-size:20px">只影行单说梦里，欢座堂前客，氛说众云朵。</div><br/>
 >
 >     <div style="font-family: STXingkai;font-size:20px">予本不沾粮云酿，难却盛中情，饮尽瀚海江。无情本是多情</div><br/>
 >
 >     <div style="font-family: STXingkai;font-size:20px">人，醉里说天阔。大梦方却曙醒时，笑斥心中舵。吾来也！</div><br/>
 >
-> 20. <div style="font-family: STXingkai;font-size:30px">自问</div><br/>
+> 23. <div style="font-family: STXingkai;font-size:30px">自问</div><br/>
 >     <div style="font-family: STXingkai;font-size:20px">忆半生功名半纸，风雪千山。</div><br/>
 >
 >     <div style="font-family: STXingkai;font-size:20px">欲忘泪向揽明月，会上青天。余有何欢？自尔也。</div><br/>
 >
-> 21. <div style="font-family: STXingkai;font-size:30px">后晌红尘梦醒语</div><br/>
+> 24. <div style="font-family: STXingkai;font-size:30px">后晌红尘梦醒语</div><br/>
 >
 >     <div style="font-family: STXingkai;font-size:20px">怨羡尘间红，晓通万千恨。</div><br/>
 >
@@ -227,7 +243,7 @@
 >
 >     <div style="font-family: STXingkai;font-size:20px">难称（chen)由自愿，天地此向坤。</div><br/>
 >
-> 22. <div style="font-family: STXingkai;font-size:30px">月下独坐拂虚</div><br/>
+> 25. <div style="font-family: STXingkai;font-size:30px">月下独坐拂虚</div><br/>
 >
 >     <div style="font-family: STXingkai;font-size:20px">零清若弄月， 孰堪情共与。弗须赴汝约，莫若共花语。悉卿颜如玉，枉用若相存。</div><br/>
 >
@@ -235,7 +251,7 @@
 >
 >     不用再独赴对你的约定了🙂，不如在这里和花相谈交心。我知道你过得不错，如玉之颜，我又何必再纠结过去，好像你还在我身边…
 >
-> 23. <div style="font-family: STXingkai;font-size:30px">时颂</div><br/>
+> 26. <div style="font-family: STXingkai;font-size:30px">时颂</div><br/>
 >     <div style="font-family: STXingkai;font-size:20px">独坐玉龙台，</div><br/>
 >
 >     <div style="font-family: STXingkai;font-size:20px">风溪待尘埃。</div><br/>
@@ -244,7 +260,7 @@
 >
 >     <div style="font-family: STXingkai;font-size:20px">人间已百亥。</div><br/>
 >
-> 25. <div style="font-family: STXingkai;font-size:30px">阅生</div><br/>
+> 27. <div style="font-family: STXingkai;font-size:30px">阅生</div><br/>
 >
 >     <div style="font-family: STXingkai;font-size:20px">学海向问一生事，</div><br/>
 >
@@ -254,7 +270,7 @@
 >
 >     <div style="font-family: STXingkai;font-size:20px">末置玄经却见奇。</div><br/>
 >
-> 26. <div style="font-family: STXingkai;font-size:30px">醒文</div><br/>
+> 28. <div style="font-family: STXingkai;font-size:30px">醒文</div><br/>
 >
 >     <div style="font-family: STXingkai;font-size:20px">纹云画柱粱雕栋，</div><br/>
 >
@@ -264,13 +280,13 @@
 >
 >     <div style="font-family: STXingkai;font-size:20px">莫对文诗论攀迁。</div><br/>
 >
-> 27. <div style="font-family: STXingkai;font-size:30px">约莫</div><br/>
+> 29. <div style="font-family: STXingkai;font-size:30px">约莫</div><br/>
 >
 >     <div style="font-family: STXingkai;font-size:20px">约从是世期，莫横弗若希。</div><br/>
 >
 >     <div style="font-family: STXingkai;font-size:20px">世事难前料，何谈顾若一。</div><br/>
 >
-> 28. <div style="font-family: STXingkai;font-size:30px">何是此，此是何</div><br/>
+> 30. <div style="font-family: STXingkai;font-size:30px">何是此，此是何</div><br/>
 >
 > ****
 >
@@ -550,7 +566,7 @@
 >     仙人踏云来，新生向此开。
 >
 > 30. <div style="font-family: STXingkai;font-size:30px">惊蛰</div><br/>
->    惊蛰，再曰“启蛰”，乃二十四节气之三。
+>       惊蛰，再曰“启蛰”，乃二十四节气之三。
 >
 >     时至惊蛰，烁气舒上，春雷乍动、水雨出脱，盎然生机。
 >
