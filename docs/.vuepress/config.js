@@ -716,7 +716,7 @@ module.exports = {
         homeTopText: '置顶',
 
         //侧边栏一句话描述
-        sidebarDesc: '喜欢动漫，jojo、东京食尸鬼',
+        sidebarDesc: '喜欢动漫，CG、jojo、东京食尸鬼',
 
         /*
         * 下面的是v1.13.0版本的配置
