@@ -110,7 +110,11 @@
 >     <div style="font-family: STXingkai;font-size:20px">过从处，往来寻复。何所似？似梦断云惊。</div><br/>
 >     <div style="font-family: STXingkai;font-size:20px">醒来呓语孰明经？吾造化不足也！不得云梦泽，得往复。</div><br/>
 > 
-> 12. <div style="font-family: STXingkai;font-size:30px">夏夜蝉心响</div><br/>
+> 12. <div style="font-family: STXingkai;font-size:30px">快哉风！</div><br/>
+>     <div style="font-family: STXingkai;font-size:20px">越起苍岚，呼卷长林啸。啸叫清谷正鸣劲，刚道雄风绕！</div><br/>
+>     <div style="font-family: STXingkai;font-size:20px">孤尔闭巷倦风起，窈窈生民殃。民何辜？</div><br/>
+>     <div style="font-family: STXingkai;font-size:20px">罡风驾怯出长林，呼卷阴浊去，过汉湘。吹向快哉亭，名唤快哉风！</div>
+> 13. <div style="font-family: STXingkai;font-size:30px">夏夜蝉心响</div><br/>
 >
 >     <div style="font-family: STXingkai;font-size:20px">嘁嘁蝉鸣，自是卷乱昏帐。</div><br/>
 >     <div style="font-family: STXingkai;font-size:20px">闻尔近身，却见孤鸿凄让。</div><br/>
