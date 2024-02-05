@@ -51,7 +51,7 @@
 >    <div style="font-family: STXingkai;font-size:20px">步用形声，抬望眼不觉来处，不去返。孤道是寻常，尽头涣离往昔，是此生。</div><br/>
 >
 > 5. <div style="font-family: STXingkai;font-size:30px">观解玉骢骄</div><br/>
->      <div style="font-family: STXingkai;font-size:20px">葱茏间窥羡琼瑶，桥解障泥玉骢骁。</div><br/>
+>    <div style="font-family: STXingkai;font-size:20px">葱茏间窥羡琼瑶，桥解障泥玉骢骁。</div><br/>
 >    <div style="font-family: STXingkai;font-size:20px">叫啸踏碎绯玉橑，惊断云梦骸，浪羁霄！</div><br/>
 >    <div style="font-family: STXingkai;font-size:20px">霄间客解逸寻迷，迷醉坠沿芳草，芳草间，舒沽幽渊唤鲸叫！</div><br/>
 > 6. <div style="font-family: STXingkai;font-size:30px">灵魂摆渡</div><br/>
@@ -303,13 +303,11 @@
 > ### 入世
 >
 > 1. <div style= "font-family:monospace;font-size:30px">若母💕💕💕💕💕💕孰知父</div><br/>
->
 >    <div style="font-family: STXingkai;font-size:20px">晨去恕苦愆，暮归梳家宴。 沐晨漱起工，苦劳承家功。</div><br/>
 >
 >    <div style="font-family: STXingkai;font-size:20px">会飨亲中情，斯是报德星。 寐夜浅休憩， 回晨复日兮。</div><br/>
 >
-> 2. <div style="font-family: STXingkai;font-size:30px">中华赋</div><br/> 
->
+> 2. <div style="font-family: STXingkai;font-size:30px">中华赋</div><br/>
 >    洪荒神古，灵修之始。炎黄之盟，洞(洞悉天时)创新世，禹后千主(这个千只是虚指，就是多的意思)，悉以亡商。
 >
 >    姬武行道，世逢乐土。幽王谬宠(宠信奸臣啦)，诸侯乱世。几载春秋(这个是双关啦，春秋时期和时间)，几番乐苦。诸子伏途，拜君臣主。奕战难服，国殇屈(伟大爱国诗人屈原啦)步(踱步)。
@@ -324,19 +322,33 @@
 >
 >    辛亥之革，民兆之始。抗魔(抗战)恒战，军威荡寰，日出东方，奉恒五星。
 >
-> 3. <div style="font-family: STXingkai;font-size:30px">亟涅槃</div><br/>
+> 3. <div style="font-family:STXingkai;font-size:30px">邀月</div><br/>
+>    古月邀晴照玉莹，
+> 
+>    莹守惑心穿堂明。
+> 
+>    神想前如来世梦，
+> 
+>    何望今人古时月？ <br/>
+> 4. <div style="font-family: STXingkai;font-size:30px">问言</div><br/>
+>    香榭亭来不须呼，
+>     
+>    过晚来风醉金乌。
 >
+>    问姑难讨凉杯饮，
+> 
+>    睡暖芳心言笑疏。
+> 5. <div style="font-family: STXingkai;font-size:30px">亟涅槃</div><br/>
 >    只闻凤鸣九天叫，孰知涅槃苦深道
 >
 >    苦深涅槃灭天骄，傲世一鸣天下啸。
 >
-> 4. <div style="font-family: STXingkai;font-size:30px">念骠姚校尉去病</div><br/>
->
+> 6. <div style="font-family: STXingkai;font-size:30px">念骠姚校尉去病</div><br/>
 >    怒马鲜衣少年郎，箭逐胡马戍天疆。
 >
 >    酒兵倾尽玉泉酿，醉覆前路侠骨香。
 >
-> 5. <div style="font-family: STXingkai;font-size:30px">唤大圣</div><br/>
+> 7. <div style="font-family: STXingkai;font-size:30px">唤大圣</div><br/>
 >    混沌初开世清明，
 >
 >    日月分光漫天星。
@@ -345,14 +357,12 @@
 >
 >    神猴挥棒乾坤清。
 >
-> 6. <div style="font-family: STXingkai;font-size:30px">借铭月下独酌</div><br/>
->
+> 8. <div style="font-family: STXingkai;font-size:30px">借铭月下独酌</div><br/>
 >    苍穹月，望风帘，独坐吮饮杜康甜。直杯敬止豪杰目。
 >
 >    问世间，有何倦厌？坐起行径崤函路。弃厌毕，会出关！关外见崆峒，去筱贤。
 >
-> 7. <div style="font-family: STXingkai;font-size:30px">剑铭映山河</div><br/>
->
+> 9. <div style="font-family: STXingkai;font-size:30px">剑铭映山河</div><br/>
 >    饮马阑珊刀与火，缨鸣青锋睇当年，映见原样山河。
 >
 >    只一生离响，划开两世三生。
@@ -361,30 +371,26 @@
 >
 >    勒紫电还宿，月覆青霜。只念离索处，轻鸣弦歌，是吾安处。
 >
-> 8. <div style="font-family: STXingkai;font-size:30px">有晴风归去</div><br/>
+> 10. <div style="font-family: STXingkai;font-size:30px">有晴风归去</div><br/>
+>     有情来风，无心去归，乌鬓不相怜。
 >
->    有情来风，无心去归，乌鬓不相怜。
+>     白首莫逾心，不禁西江泪， 去往兴灵浦，拦撤愁云会。
 >
->    白首莫逾心，不禁西江泪， 去往兴灵浦，拦撤愁云会。
+>     握开是晴天，擎首明神时，是阳春！
 >
->    握开是晴天，擎首明神时，是阳春！
+> 11. <div style="font-family: STXingkai;font-size:30px">无言</div><br/>
+>     别经年，岁悠悠。痴离在，人莫愁。
 >
-> 9. <div style="font-family: STXingkai;font-size:30px">无言</div><br/>
+>     会须一饮三百杯，今朝谁将夕阳飞？
 >
->    别经年，岁悠悠。痴离在，人莫愁。
->
->    会须一饮三百杯，今朝谁将夕阳飞？
->
-> 10. <div style="font-family: STXingkai;font-size:30px">何以忧</div><br/>
->
+> 12. <div style="font-family: STXingkai;font-size:30px">何以忧</div><br/>
 >     三月风烟，五月桃花。春红未谢，闭月已羞。孤鹜独飞，落河无泪。雁声何道？擎空难翔。
 >
 >     暮香沉而零花落，尽消陨。
 >
 >     月盘咄咄，玉光难照。影独处之？明日以何忧？今朝谁人思？
 >
-> 11. <div style="font-family: STXingkai;font-size:30px">醒来吧</div><br/>
->
+> 13. <div style="font-family: STXingkai;font-size:30px">醒来吧</div><br/>
 >     醒来吧
 >
 >     不要沉睡
@@ -417,15 +423,14 @@
 >
 >     毋悔！毋回！
 >
-> 12. <div style="font-family: STXingkai;font-size:30px">读东坡赠朝云词有怀</div><br/>
->
+> 14. <div style="font-family: STXingkai;font-size:30px">读东坡赠朝云词有怀</div><br/>
 >     朝云行来，暮结雨，未见犹似怀。
 >
 >     结习余缘，维摩花容身。
 >
 >     但有君知我，何事待以尽？为是观。
 >
-> 13. <div style="font-family: STXingkai;font-size:30px">祝君辞</div><br/>
+> 15. <div style="font-family: STXingkai;font-size:30px">祝君辞</div><br/>
 >     顾念子为姝，露霜镜伊人。
 >
 >     妆颜倾国色，细裹垂柳身。
@@ -438,8 +443,7 @@
 >
 >     辞树翩飞朝仙露，朝露莹发花晨述。
 >
-> 14. <div style="font-family: STXingkai;font-size:30px">破军关</div><br/>
->
+> 16. <div style="font-family: STXingkai;font-size:30px">破军关</div><br/>
 >     亿丈铜鼓锣嚣，指点万千戾马嘶嚎。
 >
 >     角声燎燎，鞭敕东都向西朝。日向黄昏，风烟滚滚，战事难休徒销魂。
@@ -450,7 +454,7 @@
 >
 >     只待破军关，别离战壕间。不请功业建，盼得思亲俱欢颜。
 >
-> 15. <div style="font-family: STXingkai;font-size:30px">雄关</div><br/>
+> 17. <div style="font-family: STXingkai;font-size:30px">雄关</div><br/>
 >     远唤重云来，
 >
 >     迈泽覆淤开。
@@ -459,8 +463,7 @@
 >
 >     雄关惊雷骇。
 >
-> 16. <div style="font-family: STXingkai;font-size:30px">南娥-勿忘我</div><br/>
->
+> 18. <div style="font-family: STXingkai;font-size:30px">南娥-勿忘我</div><br/>
 >     采花娇，不知岁稀昔岁伴年少。流年不轻叹，笑得猗郁烂漫。
 >
 >     枉不顾似水年华，朝朝暮暮；参不透红尘夙愿，零零落落。却落得残柳败絮唏嘘。
@@ -469,8 +472,7 @@
 >
 >     执念！执念！毋忘君，君勿忘。
 >
-> 17. <div style="font-family: STXingkai;font-size:30px">妙雨丹青</div><br/>
->
+> 19. <div style="font-family: STXingkai;font-size:30px">妙雨丹青</div><br/>
 >     白练自舞，惊起浩渺云烟。离人不归，倩谁人来见？
 >
 >     撒一江愁思，凌乱灯火阑珊。举樽成忆，细雨如针，织起光景往年。
@@ -481,22 +483,19 @@
 >
 >     欲语焉？泪欲坠，梦中此缠绵。
 >
-> 18. <div style="font-family: STXingkai;font-size:30px">回梦燕子楼</div><br/>
->
+> 20. <div style="font-family: STXingkai;font-size:30px">回梦燕子楼</div><br/>
 >     搁笔处，正望古月。流光晓寒，回神燕子楼，教人成灰。
 >
 >     痴命见人笑，谁人命不痴？难作缀语。
 >
 >     提笔作罢，一字许归元。元以守中，是生！
 >
-> 19. <div style="font-family: STXingkai;font-size:30px">狂生晓梦 </div><br/>
->
+> 21. <div style="font-family: STXingkai;font-size:30px">狂生晓梦 </div><br/>
 >     雨过秋残红，淡霰落如风。
 >
 >     羡得滔天浪，万事原是空…
 >
-> 20. <div style="font-family: STXingkai;font-size:30px">若人见花</div><br/>
->
+> 22. <div style="font-family: STXingkai;font-size:30px">若人见花</div><br/>
 >     容绝新艳独占春，
 >
 >     醉晚林风夜见深。
@@ -505,8 +504,7 @@
 >
 >     绛乱生发焕奇芬。
 >
-> 21. <div style="font-family: STXingkai;font-size:30px">秋凉</div><br/>
->
+> 23. <div style="font-family: STXingkai;font-size:30px">秋凉</div><br/>
 >     邦节霖熏秋凉意，
 >
 >     出走临乡归故里。
@@ -515,33 +513,29 @@
 >
 >     似是无晴也有晴。
 >
-> 22. <div style="font-family: STXingkai;font-size:30px">佳人愿</div><br/>
->
+> 24. <div style="font-family: STXingkai;font-size:30px">佳人愿</div><br/>
 >     愿添红袖香，风轻万云裳。
 >
 >     星关云闭月，熠日耀重光。
 >
-> 23. <div style="font-family: STXingkai;font-size:30px">夜夏弦律</div><br/> 
->
+> 25. <div style="font-family: STXingkai;font-size:30px">夜夏弦律</div><br/>
 >     怡入江寒静，顿首望星天。
 >
 >     回堪遮望眼，弦轻慧花田。
 >
 >     日月行天，亘古不变
 >
-> 24. <div style="font-family: STXingkai;font-size:30px">浮世善恶图</div><br/>
->
+> 26. <div style="font-family: STXingkai;font-size:30px">浮世善恶图</div><br/>
 >     为甚莫作善，看尽殍世暗。
 >
 >     做尽天下恶，享尽世间乐
 >
-> 25. <div style="font-family: STXingkai;font-size:30px">夏午</div><br/>
+> 27. <div style="font-family: STXingkai;font-size:30px">夏午</div><br/>
 >     午照凝露树柳阴，莺啼燕语旧绪新。
 >
 >     南风飘来繁如絮，姿是人间雪阳春。
 >
-> 26. <div style="font-family: STXingkai;font-size:30px">花似醉</div><br/>
->
+> 28. <div style="font-family: STXingkai;font-size:30px">花似醉</div><br/>
 >     凯风是惑邂，
 >
 >     梦悠拂南山。
@@ -550,8 +544,7 @@
 >
 >     醉展姬绡艳。
 >
-> 27. <div style="font-family: STXingkai;font-size:30px">观夜</div><br/>
->
+> 29. <div style="font-family: STXingkai;font-size:30px">观夜</div><br/>
 >     洛风扶雁双飞客，
 >
 >     暑去经还几度秋。
@@ -560,8 +553,7 @@
 >
 >     笑眺白兔戏玉蟾。
 >
-> 28. <div style="font-family: STXingkai;font-size:30px">美人颂</div><br/>
->
+> 30. <div style="font-family: STXingkai;font-size:30px">美人颂</div><br/>
 >     玉头一树妆，
 >
 >     清眸皓齿香。
@@ -570,14 +562,13 @@
 >
 >     情怯小轩窗。
 >
-> 29. <div style="font-family: STXingkai;font-size:30px">岁</div><br/>
+> 31. <div style="font-family: STXingkai;font-size:30px">岁</div><br/>
 >     花开夕阳陌，日升百岁时。
 >
 >     仙人踏云来，新生向此开。
 >
-> 30. <div style="font-family: STXingkai;font-size:30px">惊蛰</div><br/>
+> 32. <div style="font-family: STXingkai;font-size:30px">惊蛰</div><br/>
 >       惊蛰，再曰“启蛰”，乃二十四节气之三。
->
 >     时至惊蛰，烁气舒上，春雷乍动、水雨出脱，盎然生机。
 >
 >     缭然春色，江山易图。春雷始鸣，乍惊伏蛰。曰惊蛰干支历卯月始，又曰“春雷惊百虫”。
@@ -586,7 +577,7 @@
 >
 >     “卯”，冒也，万物冒地出，天雷唤起万生醒；故曰，卯月（二月），量道法之易，万道更新自斯始。今日惊蛰，惊鸿人间！
 >
-> 32. 我将我的卑鄙带进我的坟墓，你把你的光明带给他们的明天。
+> 33. 我将我的卑鄙带进我的坟墓，你把你的光明带给他们的明天。
 >
 >     我几百年的大奸大恶，只是为了我的一厢情愿罢了  
 >
@@ -594,7 +585,7 @@
 >
 >     无生之后，我带着我的意志和愧意消散于这宙宇之间，你协同他们一起，走向你所希望的世间。
 >
-> 33. 他们这群人，得到别人的好，就感谢他们的神。
+> 34. 他们这群人，得到别人的好，就感谢他们的神。
 >
 >     受到自己的不幸，就责怪他人，莫不在他人身上找自己不幸的原因。
 >
@@ -602,13 +593,13 @@
 >
 >     我每当想起这些，就不禁想哈哈大笑。
 >
-> 34. 你什么都想要的时候，其实你离一无所有已经不远了。当你拥有一切，你已经是一无所有了
+> 35. 你什么都想要的时候，其实你离一无所有已经不远了。当你拥有一切，你已经是一无所有了
 >
-> 35. 如若无情，天地俱寂消如音
+> 36. 如若无情，天地俱寂消如音
 >
 >     如若有情，草木皆春繁如画
 >
-> 36. 鼠器凌霄子，孺牛奋丑期。
+> 37. 鼠器凌霄子，孺牛奋丑期。
 
 ## 我的写作素材
 
