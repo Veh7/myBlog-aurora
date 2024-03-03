@@ -96,7 +96,11 @@ module.exports = {
                         //     songName: 'continued story',
                         //     cover: 'https://p1.music.126.net/Rg1x9LeUacIDqtvUzL35Cw==/109951163688517312.jpg'
                         // },
-
+                        {
+                            path: '/bgm/孤勇者.m4a',
+                            songName: '孤勇者',
+                            cover:'/avatar/avatar.jpeg'
+                        },
                         {
                             path: '/bgm/Continued Story.mp3',
                             songName: 'Continued Story',
