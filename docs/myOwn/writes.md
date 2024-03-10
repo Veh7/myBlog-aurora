@@ -22,7 +22,7 @@
 >
 > 2. <div style="font-family: STXingkai;font-size:30px">舒离歌</div><br/><img src="./media/outter/shuLi/shuLi01.png" style="width: 50%">
 >
->    <div style="font-family: STXingkai;font-size:20px">蓬黎唱晚，顾望旋花落。恨晚风来早，绯云来迟，垂顿夏梦染。</div><br/>
+>    <div style="font-family: STXingkai;font-size:20px">蓬黎唱晚，顾望旋花落。恨晚风来早，绯云来迟，夜顿夏梦染。</div><br/>
 >
 >    <div style="font-family: STXingkai;font-size:20px">梦里寻真真亦梦，镜舒两离，胡言癫狂语。</div><br/>
 >
@@ -44,23 +44,30 @@
 >
 >    <div style="font-family: STXingkai;font-size:20px">谁是人间失魂客，墨落书，叙日夕。</div><br/>
 >
-> 4. <div style="font-family: STXingkai;font-size:30px">颂东坡先生</div><br/><img src="./media/outter/dongPo/10.png" style="width: 50%">
+> 4. <div style="font-family: STXingkai;font-size:30px">为何？不知</div><br/><img src="./media/outter/buZhi/04.png" style="width: 50%">
+>  
+>     <div style="font-family: STXingkai;font-size:20px">无人与我屠龙，青山路上半桥松。</div><br/>
+>     <div style="font-family: STXingkai;font-size:20px">眼前半生糊涂事，作来往日清风。</div><br/>
+>     <div style="font-family: STXingkai;font-size:20px">运化残功扶刀起，乍是泣泪血书成。</div><br/>
+>     <div style="font-family: STXingkai;font-size:20px">功在茶馆评书，身在一方屏后，解是孤胆一身萍，会在世里逢颂，予亦相称送。</div><br/>
+>     <div style="font-family: STXingkai;font-size:20px">上道若问此为何？天知，我不知。</div><br/>
+> 5. <div style="font-family: STXingkai;font-size:30px">颂东坡先生</div><br/><img src="./media/outter/dongPo/10.png" style="width: 50%">
 >
 >    <div style="font-family: STXingkai;font-size:20px">念天赋其才，得深而潜用。毋回章台旧路，泰山道，会寻新府。</div><br/>
 >
 >    <div style="font-family: STXingkai;font-size:20px">步用形声，抬望眼不觉来处，不去返。</div><br/>
 >    <div style="font-family: STXingkai;font-size:20px">孤道是寻常，尽头涣离往昔，是此生。</div><br/>
-> 5. <div style="font-family: STXingkai;font-size:30px">同铭东坡江城子之怀渊明斜川诗</div><br/><img src="./media/outter/xieChuan/xieChuan.png" style="width: 50%">
+> 6. <div style="font-family: STXingkai;font-size:30px">同铭东坡江城子之怀渊明斜川诗</div><br/><img src="./media/outter/xieChuan/xieChuan.png" style="width: 50%">
 >
 >    <div style="font-family: STXingkai;font-size:20px">怯懦心洗，至新生。</div><br/>
 >    <div style="font-family: STXingkai;font-size:20px">驰遣意消，颂东坡渊明。</div><br/>
 >    <div style="font-family: STXingkai;font-size:20px">难忘饮，梦夜明，心远人境清。</div><br/>
 >    <div style="font-family: STXingkai;font-size:20px">问君此中是何性？斜川诗，东坡堂。经诗寄遥情。</div><br/>
-> 6. <div style="font-family: STXingkai;font-size:30px">观解玉骢骄</div><br/><img src="./media/outter/yuCong/yuCong01.png" style="width: 50%">
+> 7. <div style="font-family: STXingkai;font-size:30px">观解玉骢骄</div><br/><img src="./media/outter/yuCong/yuCong01.png" style="width: 50%">
 >    <div style="font-family: STXingkai;font-size:20px">葱茏间窥羡琼瑶，桥解障泥玉骢骁。</div><br/>
 >    <div style="font-family: STXingkai;font-size:20px">叫啸踏碎绯玉橑，惊断云梦骸，浪羁霄！</div><br/>
 >    <div style="font-family: STXingkai;font-size:20px">霄间客解逸寻迷，迷醉坠沿芳草，芳草间，舒沽幽渊唤鲸叫！</div><br/>
-> 7. <div style="font-family: STXingkai;font-size:30px">灵魂摆渡</div><br/><img src="./media/outter/lingHun/lingHun.png" style="width: 50%">
+> 8. <div style="font-family: STXingkai;font-size:30px">灵魂摆渡</div><br/><img src="./media/outter/lingHun/lingHun.png" style="width: 50%">
 >
 >    <div style="font-family: STXingkai;font-size:20px">孤灵千岁曲，</div><br/>
 >
@@ -70,27 +77,27 @@
 >
 >    <div style="font-family: STXingkai;font-size:20px">冬色回青渡。</div><br/>
 >
-> 8. <div style="font-family: STXingkai;font-size:30px">柔情水，居无定。</div><br/><img src="./media/outter/rouQing/02.png" style="width: 50%">
+> 9. <div style="font-family: STXingkai;font-size:30px">柔情水，居无定。</div><br/><img src="./media/outter/rouQing/02.png" style="width: 50%">
 >
 >    <div style="font-family: STXingkai;font-size:20px">原见旧晚笙隆，顾看座席返空，别无他是。</div><br/>
 >
 >    <div style="font-family: STXingkai;font-size:20px">重作罢，戏演余生。夕日沦下又明朝！赤鸢仙回晴峦颠。</div><br/>
 >
-> 9. <div style="font-family: STXingkai;font-size:30px">观诗阅井</div><br/><img src="./media/outter/guan/guan.png" style="width: 50%">
+> 10. <div style="font-family: STXingkai;font-size:30px">观诗阅井</div><br/><img src="./media/outter/guan/guan.png" style="width: 50%">
 >
->    <div style="font-family: STXingkai;font-size:20px">卷抚诗书涧中潭，</div><br/>
+>     <div style="font-family: STXingkai;font-size:20px">卷抚诗书涧中潭，</div><br/>
 >
->    <div style="font-family: STXingkai;font-size:20px">客近观井镜内山。</div><br/>
+>     <div style="font-family: STXingkai;font-size:20px">客近观井镜内山。</div><br/>
 >
->    <div style="font-family: STXingkai;font-size:20px">坐井不知身外世，</div><br/>
+>     <div style="font-family: STXingkai;font-size:20px">坐井不知身外世，</div><br/>
 >
->    <div style="font-family: STXingkai;font-size:20px">入世毋解此间繁。</div><br/>
+>     <div style="font-family: STXingkai;font-size:20px">入世毋解此间繁。</div><br/>
 >
->    <div style="font-family: STXingkai;font-size:20px">坐忘顾得诗情意，</div><br/>
+>     <div style="font-family: STXingkai;font-size:20px">坐忘顾得诗情意，</div><br/>
 >
->    <div style="font-family: STXingkai;font-size:20px">机心冰涣玄机参。</div><br/>
+>     <div style="font-family: STXingkai;font-size:20px">机心冰涣玄机参。</div><br/>
 >
-> 10. <div style="font-family: STXingkai;font-size:30px">镜花水月歌</div><br/><img src="./media/outter/jingHuaShuiYue/jhsy01.png" style="width: 50%">
+> 11. <div style="font-family: STXingkai;font-size:30px">镜花水月歌</div><br/><img src="./media/outter/jingHuaShuiYue/jhsy01.png" style="width: 50%">
 >
 >     <div style="font-family: STXingkai;font-size:20px">镜世两离分，</div><br/>
 >
@@ -100,7 +107,7 @@
 >
 >     <div style="font-family: STXingkai;font-size:20px">独卷掩月温。</div><br/>
 >
-> 11. <div style="font-family: STXingkai;font-size:30px">神游方外</div><br/><img src="./media/outter/shenYou/03.png" style="width: 50%">
+> 12. <div style="font-family: STXingkai;font-size:30px">神游方外</div><br/><img src="./media/outter/shenYou/03.png" style="width: 50%">
 >
 >     <div style="font-family: STXingkai;font-size:20px">素游云莱别无间，红袖着香拭笼砂。</div><br/>
 >
@@ -110,30 +117,30 @@
 >
 >     <div style="font-family: STXingkai;font-size:20px">该是回还身去处，今古离殇韵销魂。</div><br/>
 >
-> 12. <div style="font-family: STXingkai;font-size:30px">明遇</div><br/><img src="./media/outter/my/my.png" style="width: 50%">
+> 13. <div style="font-family: STXingkai;font-size:30px">明遇</div><br/><img src="./media/outter/my/my.png" style="width: 50%">
 >
 >     <div style="font-family: STXingkai;font-size:20px">淡酒屏桌，唤来清风月明。冰淋世机，沽酒张琴。弦鸣响，溪水流心。</div><br/>
 >     <div style="font-family: STXingkai;font-size:20px">过从处，往来寻复。何所似？似梦断云惊。</div><br/>
 >     <div style="font-family: STXingkai;font-size:20px">醒来呓语孰明经？吾造化不足也！不得云梦泽，得往复。</div><br/>
 >
-> 13. <div style="font-family: STXingkai;font-size:30px">快哉风！</div><br/><img src="./media/outter/kuaiZai/02.png" style="width: 50%">
+> 14. <div style="font-family: STXingkai;font-size:30px">快哉风！</div><br/><img src="./media/outter/kuaiZai/02.png" style="width: 50%">
 >     <div style="font-family: STXingkai;font-size:20px">越起苍岚，呼卷长林啸。啸叫清谷正鸣劲，刚道雄风绕！</div><br/>
 >     <div style="font-family: STXingkai;font-size:20px">孤尔闭巷倦风起，窈窈生民殃。民何辜？</div><br/>
 >     <div style="font-family: STXingkai;font-size:20px">罡风驾怯出长林，呼卷阴浊去，过汉湘。吹向快哉亭，名唤快哉风！</div><br/>
 >
-> 14. <div style="font-family: STXingkai;font-size:30px">夏夜蝉心响</div><br/><img src="./media/outter/xiaYe/01.png" style="width: 50%">
+> 15. <div style="font-family: STXingkai;font-size:30px">夏夜蝉心响</div><br/><img src="./media/outter/xiaYe/01.png" style="width: 50%">
 >
 >     <div style="font-family: STXingkai;font-size:20px">嘁嘁蝉鸣，自是卷乱昏帐。</div><br/>
 >     <div style="font-family: STXingkai;font-size:20px">闻尔近身，却见孤鸿凄让。</div><br/>
 >     <div style="font-family: STXingkai;font-size:20px">断了旭思，元是顾心自赏。</div><br/>
 >     <div style="font-family: STXingkai;font-size:20px">执笔非念，挥尽相思泪往。</div><br/>
-> 15. <div style="font-family: STXingkai;font-size:30px">杨花落</div><br/><img src="./media/outter/yangHuaLuo/01.png" style="width: 50%">
+> 16. <div style="font-family: STXingkai;font-size:30px">杨花落</div><br/><img src="./media/outter/yangHuaLuo/01.png" style="width: 50%">
 >
 >     <div style="font-family: STXingkai;font-size:20px">痴远离多，自蛮风起，但孤诩。抛家弃身，落是从听教坠。</div><br/>
 >     <div style="font-family: STXingkai;font-size:20px">坠见前从，似是傍系寻身。</div><br/>
 >     <div style="font-family: STXingkai;font-size:20px">观后弦，却肖寻无路，鸢飞衔入旧窗台，凭吹覆！</div><br/>
 >
-> 16. <div style="font-family: STXingkai;font-size:30px">观倩女绮泪</div><br/><img src="./media/outter/qianNv/07.png" style="width: 50%">
+> 17. <div style="font-family: STXingkai;font-size:30px">观倩女绮泪</div><br/><img src="./media/outter/qianNv/07.png" style="width: 50%">
 >
 >      <div style="font-family: STXingkai;font-size:20px">鉴中人，谁是观？</div><br/>
 >
@@ -141,7 +148,7 @@
 >
 >      <div style="font-family: STXingkai;font-size:20px">别无泪，静照灯火话凄凉。</div><br/>
 >
-> 17. <div style="font-family: STXingkai;font-size:30px">憩游神怀天地有感  </div><br/> <img src="./media/outter/shenHuai/05.png" style="width: 50%">
+> 18. <div style="font-family: STXingkai;font-size:30px">憩游神怀天地有感  </div><br/> <img src="./media/outter/shenHuai/05.png" style="width: 50%">
 >
 >     <div style="font-family: STXingkai;font-size:20px">愿尽时思莫难同，缘褪此路道始空。</div><br/>
 >
@@ -153,7 +160,7 @@
 >
 >     <div style="font-family: STXingkai;font-size:20px">疏影横斜水清浅，暗香浮动月黄昏。</div><br/>
 >
-> 18. <div style="font-family: STXingkai;font-size:30px">游乐言</div><br/> <img src="./media/outter/youLeYan/02.png" style="width: 50%">
+> 19. <div style="font-family: STXingkai;font-size:30px">游乐言</div><br/> <img src="./media/outter/youLeYan/02.png" style="width: 50%">
 >     <div style="font-family: STXingkai;font-size:20px">元应中山无暇客，暮闻铭前千秋鹤。</div><br/>
 >
 >     <div style="font-family: STXingkai;font-size:20px">踏妒扬愤简道侧，曦在人间云觅乐。</div><br/>
@@ -162,13 +169,13 @@
 >
 >     <div style="font-family: STXingkai;font-size:20px">莫向青天问白箭，不问缘何心在安。</div><br/>
 >
-> 19. <div style="font-family: STXingkai;font-size:30px">闲云世间客</div><br/> <img src="./media/outter/xianYun/02.png" style="width: 50%">
+> 20. <div style="font-family: STXingkai;font-size:30px">闲云世间客</div><br/> <img src="./media/outter/xianYun/02.png" style="width: 50%">
 >
 >     <div style="font-family: STXingkai;font-size:20px">我本山中人，偶坐堂前客。</div><br/>
 >
 >     <div style="font-family: STXingkai;font-size:20px">扶风踏世尘，惊起闲云鹤。</div><br/>
 >
-> 20. <div style="font-family: STXingkai;font-size:30px">聚散离</div><br/><img src="./media/outter/juSanLi/03.png" style="width: 50%">
+> 21. <div style="font-family: STXingkai;font-size:30px">聚散离</div><br/><img src="./media/outter/juSanLi/03.png" style="width: 50%">
 >
 >     <div style="font-family: STXingkai;font-size:20px">顿开云集梦起时，</div><br/>
 >
@@ -178,7 +185,7 @@
 >
 >     <div style="font-family: STXingkai;font-size:20px">离别此是最难时。</div><br/>
 >
-> 21. <div style="font-family: STXingkai;font-size:30px">梦古道夜行</div><br/>
+> 22. <div style="font-family: STXingkai;font-size:30px">梦古道夜行</div><br/><img src="./media/outter/yeXing/01.png" style="width: 50%">
 >
 >     <div style="font-family: STXingkai;font-size:20px">菊篱藩外难觅静，</div><br/>
 >
@@ -192,7 +199,7 @@
 >
 >     <div style="font-family: STXingkai;font-size:20px">遥负千川望神州。</div><br/>
 >
-> 22. <div style="font-family: STXingkai;font-size:30px">无题</div><br/>
+> 23. <div style="font-family: STXingkai;font-size:30px">无题</div><br/><img src="./media/outter/wuTi/01.png" style="width: 50%">
 >
 >     <div style="font-family: STXingkai;font-size:20px">日照晴天虽静好，风卷残云收。</div><br/>
 >
@@ -202,7 +209,7 @@
 >
 >     <div style="font-family: STXingkai;font-size:20px">敬羡人间回春寂，蹉跎志消磨。</div><br/>
 >
-> 23. <div style="font-family: STXingkai;font-size:30px">无题二</div><br/>
+> 24. <div style="font-family: STXingkai;font-size:30px">无题二</div><br/><img src="./media/outter/wuTi/08.png" style="width: 50%">
 >
 >     <div style="font-family: STXingkai;font-size:20px">孰将岁月吟语陈，</div><br/>
 >
@@ -212,7 +219,7 @@
 >
 >     <div style="font-family: STXingkai;font-size:20px">一夜一灯一扁舟。</div><br/>
 >
-> 24. <div style="font-family: STXingkai;font-size:30px">孤幻 见仙舞</div><br/>
+> 25. <div style="font-family: STXingkai;font-size:30px">孤幻 见仙舞</div><br/><img src="./media/outter/guHuan/02.png" style="width: 50%">
 >
 >     <div style="font-family: STXingkai;font-size:20px">神机窥惊鸿，</div><br/>
 >
@@ -226,19 +233,19 @@
 >
 >     <div style="font-family: STXingkai;font-size:20px">瑶台会见身。</div><br/>
 >
-> 25. <div style="font-family: STXingkai;font-size:30px">心洒江</div><br/>
+> 26. <div style="font-family: STXingkai;font-size:30px">心洒江</div><br/><img src="./media/outter/xinSaJiang/07.png" style="width: 50%">
 >     <div style="font-family: STXingkai;font-size:20px">只影行单说梦里，欢座堂前客，氛说众云朵。</div><br/>
 >
 >     <div style="font-family: STXingkai;font-size:20px">予本不沾粮云酿，难却盛中情，饮尽瀚海江。无情本是多情</div><br/>
 >
 >     <div style="font-family: STXingkai;font-size:20px">人，醉里说天阔。大梦方却曙醒时，笑斥心中舵。吾来也！</div><br/>
 >
-> 26. <div style="font-family: STXingkai;font-size:30px">自问</div><br/>
+> 27. <div style="font-family: STXingkai;font-size:30px">自问</div><br/><img src="./media/outter/ziWen/01.png" style="width: 50%">
 >     <div style="font-family: STXingkai;font-size:20px">忆半生功名半纸，风雪千山。</div><br/>
 >
 >     <div style="font-family: STXingkai;font-size:20px">欲忘泪向揽明月，会上青天。余有何欢？自尔也。</div><br/>
 >
-> 27. <div style="font-family: STXingkai;font-size:30px">后晌红尘梦醒语</div><br/>
+> 28. <div style="font-family: STXingkai;font-size:30px">后晌红尘梦醒语</div><br/><img src="./media/outter/hongChen/01.png" style="width: 50%">
 >
 >     <div style="font-family: STXingkai;font-size:20px">怨羡尘间红，晓通万千恨。</div><br/>
 >
@@ -260,7 +267,7 @@
 >
 >     <div style="font-family: STXingkai;font-size:20px">难称（chen)由自愿，天地此向坤。</div><br/>
 >
-> 28. <div style="font-family: STXingkai;font-size:30px">月下独坐拂虚</div><br/>
+> 29. <div style="font-family: STXingkai;font-size:30px">月下独坐拂虚</div><br/><img src="./media/outter/yueXia/02.png" style="width: 50%">
 >
 >     <div style="font-family: STXingkai;font-size:20px">零清若弄月， 孰堪情共与。弗须赴汝约，莫若共花语。悉卿颜如玉，枉用若相存。</div><br/>
 >
@@ -268,7 +275,7 @@
 >
 >     不用再独赴对你的约定了🙂，不如在这里和花相谈交心。我知道你过得不错，如玉之颜，我又何必再纠结过去，好像你还在我身边…
 >
-> 29. <div style="font-family: STXingkai;font-size:30px">时颂</div><br/>
+> 30. <div style="font-family: STXingkai;font-size:30px">时颂</div><br/><img src="./media/outter/shiSong/01.png" style="width: 50%">
 >     <div style="font-family: STXingkai;font-size:20px">独坐玉龙台，</div><br/>
 >
 >     <div style="font-family: STXingkai;font-size:20px">风溪待尘埃。</div><br/>
@@ -277,7 +284,7 @@
 >
 >     <div style="font-family: STXingkai;font-size:20px">人间已百亥。</div><br/>
 >
-> 30. <div style="font-family: STXingkai;font-size:30px">阅生</div><br/>
+> 31. <div style="font-family: STXingkai;font-size:30px">阅生</div><br/><img src="./media/outter/yueSheng/02.png" style="width: 50%">
 >
 >     <div style="font-family: STXingkai;font-size:20px">学海向问一生事，</div><br/>
 >
@@ -287,7 +294,7 @@
 >
 >     <div style="font-family: STXingkai;font-size:20px">末置玄经却见奇。</div><br/>
 >
-> 31. <div style="font-family: STXingkai;font-size:30px">醒文</div><br/>
+> 32. <div style="font-family: STXingkai;font-size:30px">醒文</div><br/><img src="./media/outter/xingWen/01.png" style="width: 50%">
 >
 >     <div style="font-family: STXingkai;font-size:20px">纹云画柱粱雕栋，</div><br/>
 >
@@ -297,13 +304,13 @@
 >
 >     <div style="font-family: STXingkai;font-size:20px">莫对文诗论攀迁。</div><br/>
 >
-> 32. <div style="font-family: STXingkai;font-size:30px">约莫</div><br/>
+> 33. <div style="font-family: STXingkai;font-size:30px">约莫</div><br/><img src="./media/outter/yueMo/01.png" style="width: 50%">
 >
 >     <div style="font-family: STXingkai;font-size:20px">约从是世期，莫横弗若希。</div><br/>
 >
 >     <div style="font-family: STXingkai;font-size:20px">世事难前料，何谈顾若一。</div><br/>
 >
-> 33. <div style="font-family: STXingkai;font-size:30px">何是此，此是何</div><br/>
+> 34. <div style="font-family: STXingkai;font-size:30px">何是此，此是何</div><br/>
 >
 > ****
 >
