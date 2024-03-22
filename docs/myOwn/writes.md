@@ -479,7 +479,7 @@
 >
 >     <div style="font-family: STXingkai;font-size:20px">清风旋入夜， 雄关惊雷骇。</div><br/>
 >
-> 22. <div style="font-family: STXingkai;font-size:30px">南娥-勿忘我</div><br/>
+> 22. <div style="font-family: STXingkai;font-size:30px">南娥-勿忘我</div><br/><img src="./media/inner/wuWangWo/01.png" style="width: 50%">
 >     <div style="font-family: STXingkai;font-size:20px">采花娇，不知岁稀昔岁伴年少。流年不轻叹，笑得猗郁烂漫。</div><br/>
 >
 >     <div style="font-family: STXingkai;font-size:20px">枉不顾似水年华，朝朝暮暮；参不透红尘夙愿，零零落落。却落得残柳败絮唏嘘。</div><br/>
@@ -488,7 +488,7 @@
 >
 >     <div style="font-family: STXingkai;font-size:20px">执念！执念！毋忘君，君勿忘。</div><br/>
 >
-> 23. <div style="font-family: STXingkai;font-size:30px">妙雨丹青</div><br/>
+> 23. <div style="font-family: STXingkai;font-size:30px">妙雨丹青</div><br/><img src="./media/inner/miaoYuDanQing/01.png" style="width: 50%">
 >     <div style="font-family: STXingkai;font-size:20px">白练自舞，惊起浩渺云烟。离人不归，倩谁人来见？</div><br/>
 >
 >     <div style="font-family: STXingkai;font-size:20px">撒一江愁思，凌乱灯火阑珊。举樽成忆，细雨如针，织起光景往年。</div><br/>
@@ -499,71 +499,71 @@
 >
 >     <div style="font-family: STXingkai;font-size:20px">欲语焉？泪欲坠，梦中此缠绵。</div><br/>
 >
-> 24. <div style="font-family: STXingkai;font-size:30px">回梦燕子楼</div><br/>
+> 24. <div style="font-family: STXingkai;font-size:30px">回梦燕子楼</div><br/><img src="./media/inner/yanZiLou/01.png" style="width: 50%">
 >     <div style="font-family: STXingkai;font-size:20px">搁笔处，正望古月。流光晓寒，回神燕子楼，教人成灰。</div><br/>
 >
 >     <div style="font-family: STXingkai;font-size:20px">痴命见人笑，谁人命不痴？难作缀语。</div><br/>
 >
 >     <div style="font-family: STXingkai;font-size:20px">提笔作罢，一字许归元。元以守中，是生！</div><br/>
 >
-> 25. <div style="font-family: STXingkai;font-size:30px">狂生晓梦 </div><br/>
+> 25. <div style="font-family: STXingkai;font-size:30px">狂生晓梦 </div><br/><img src="./media/inner/kuangShengXiaoMeng/01.png" style="width: 50%">
 >     <div style="font-family: STXingkai;font-size:20px">雨过秋残红，淡霰落如风。</div><br/>
 >
 >     <div style="font-family: STXingkai;font-size:20px">羡得滔天浪，万事原是空…</div><br/>
 >
-> 26. <div style="font-family: STXingkai;font-size:30px">若人见花</div><br/>
+> 26. <div style="font-family: STXingkai;font-size:30px">若人见花</div><br/><img src="./media/inner/jianHua/01.png" style="width: 50%">
 >     <div style="font-family: STXingkai;font-size:20px">容绝新艳独占春，醉晚林风夜见深。</div><br/>
 >
 >     <div style="font-family: STXingkai;font-size:20px">兹是落花本无意，绛乱生发焕奇芬。</div><br/>
 >
-> 27. <div style="font-family: STXingkai;font-size:30px">秋凉</div><br/>
+> 27. <div style="font-family: STXingkai;font-size:30px">秋凉</div><br/><img src="./media/inner/qiuLiang/01.png" style="width: 50%">
 >     <div style="font-family: STXingkai;font-size:20px">邦节霖熏秋凉意，出走临乡归故里。</div><br/>
 >
 >     <div style="font-family: STXingkai;font-size:20px">漆云漫布终期雨，似是无晴也有晴。</div><br/>
 >
-> 28. <div style="font-family: STXingkai;font-size:30px">佳人愿</div><br/>
+> 28. <div style="font-family: STXingkai;font-size:30px">佳人愿</div><br/><img src="./media/inner/jiaRenYuan/02.png" style="width: 50%">
 >     <div style="font-family: STXingkai;font-size:20px">愿添红袖香，风轻万云裳。</div><br/>
 >
 >     <div style="font-family: STXingkai;font-size:20px">星关云闭月，熠日耀重光。</div><br/>
 >
-> 29. <div style="font-family: STXingkai;font-size:30px">夜夏弦律</div><br/>
+> 29. <div style="font-family: STXingkai;font-size:30px">夜夏弦律</div><br/><img src="./media/inner/xiaYeXuanLv/01.png" style="width: 50%">
 >     <div style="font-family: STXingkai;font-size:20px">怡入江寒静，顿首望星天。</div><br/>
 >
 >     <div style="font-family: STXingkai;font-size:20px">回堪遮望眼，弦轻慧花田。</div><br/>
 >
 >     <div style="font-family: STXingkai;font-size:20px">日月行天，亘古不变</div><br/>
 >
-> 30. <div style="font-family: STXingkai;font-size:30px">浮世善恶图</div><br/>
+> 30. <div style="font-family: STXingkai;font-size:30px">浮世善恶图</div><br/><img src="./media/inner/fuShiShanETu/01.png" style="width: 50%">
 >     <div style="font-family: STXingkai;font-size:20px">为甚莫作善，看尽殍世暗。</div><br/>
 >
 >     <div style="font-family: STXingkai;font-size:20px">做尽天下恶，享尽世间乐。</div><br/>
 >
-> 31. <div style="font-family: STXingkai;font-size:30px">夏午</div><br/>
+> 31. <div style="font-family: STXingkai;font-size:30px">夏午</div><br/><img src="./media/inner/xiaWu/02.png" style="width: 50%">
 >     <div style="font-family: STXingkai;font-size:20px">午照凝露树柳阴，莺啼燕语旧绪新。</div><br/>
 >
 >     <div style="font-family: STXingkai;font-size:20px">南风飘来繁如絮，姿是人间雪阳春。</div><br/>
 >
-> 32. <div style="font-family: STXingkai;font-size:30px">花似醉</div><br/>
+> 32. <div style="font-family: STXingkai;font-size:30px">花似醉</div><br/><img src="./media/inner/huaSiZui/01.png" style="width: 50%">
 >     <div style="font-family: STXingkai;font-size:20px">凯风是惑邂，梦悠拂南山。</div><br/>
 >
 >     <div style="font-family: STXingkai;font-size:20px">轻摇花落叶，醉展姬绡艳。</div><br/>
 >
-> 33. <div style="font-family: STXingkai;font-size:30px">观夜</div><br/>
+> 33. <div style="font-family: STXingkai;font-size:30px">观夜</div><br/><img src="./media/inner/guanYe/02.png" style="width: 50%">
 >     <div style="font-family: STXingkai;font-size:20px">洛风扶雁双飞客，暑去经还几度秋。</div><br/>
 >
 >     <div style="font-family: STXingkai;font-size:20px">阑珊明珠将夜艳，笑眺白兔戏玉蟾。</div><br/>
 >
-> 34. <div style="font-family: STXingkai;font-size:30px">美人颂</div><br/>
+> 34. <div style="font-family: STXingkai;font-size:30px">美人颂</div><br/><img src="./media/inner/meiRenSong/02.png" style="width: 50%">
 >     <div style="font-family: STXingkai;font-size:20px">玉头一树妆，清眸皓齿香。</div><br/>
 >
 >     <div style="font-family: STXingkai;font-size:20px">云姿婀娜步，情怯小轩窗。</div><br/>
 >
-> 35. <div style="font-family: STXingkai;font-size:30px">岁</div><br/>
+> 35. <div style="font-family: STXingkai;font-size:30px">岁</div><br/><img src="./media/inner/sui/01.png" style="width: 50%">
 >     <div style="font-family: STXingkai;font-size:20px">花开夕阳陌，日升百岁时。</div><br/>
 >
 >     <div style="font-family: STXingkai;font-size:20px">仙人踏云来，新生向此开。</div><br/>
 >
-> 36. <div style="font-family: STXingkai;font-size:30px">惊蛰</div><br/>
+> 36. <div style="font-family: STXingkai;font-size:30px">惊蛰</div><br/><img src="./media/inner/jingZhe/02.png" style="width: 50%">
 >     <div style="font-family: STXingkai;font-size:20px">惊蛰，再曰“启蛰”，乃二十四节气之三。</div><br/>
 >     <div style="font-family: STXingkai;font-size:20px">时至惊蛰，烁气舒上，春雷乍动、水雨出脱，盎然生机。</div><br/>
 >
@@ -575,27 +575,27 @@
 >
 > 37. 我将我的卑鄙带进我的坟墓，你把你的光明带给他们的明天。
 >
->      我几百年的大奸大恶，只是为了我的一厢情愿罢了  
+>      我几百年的大奸大恶，只是为了我的一厢情愿罢了<img src="./media/inner/others/01.png" style="width: 50%">  
 >
 >      无生之前，唯愿你我可以坚守自己所珍爱的一切。
 >
 >      无生之后，我带着我的意志和愧意消散于这宙宇之间，你协同他们一起，走向你所希望的世间。
 >
-> 38. 他们这群人，得到别人的好，就感谢他们的神。
+> 38. 他们这群人，得到别人的好，就感谢他们的神。<img src="./media/inner/others/13.png" style="width: 50%">
 >
 >      受到自己的不幸，就责怪他人，莫不在他人身上找自己不幸的原因。
 >
 >      问起来，就说这是神告诉他们的，要让他们代神惩罚他人，说得大义凛然，不苟言笑。
 >
 >      我每当想起这些，就不禁想哈哈大笑。
->
 > 39. 你什么都想要的时候，其实你离一无所有已经不远了。当你拥有一切，你已经是一无所有了
 >
 > 40. 如若无情，天地俱寂消如音
 >
->      如若有情，草木皆春繁如画
+>     如若有情，草木皆春繁如画<br/>
+>    <img src="./media/inner/others/15.png" style="width: 50%">
 >
-> 41. 鼠器凌霄子，孺牛奋丑期。
+> 42. 鼠器凌霄子，孺牛奋丑期。
 >
 > ****
 >
