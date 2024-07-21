@@ -54,6 +54,10 @@ module.exports = {
                         {
                             text: '领悟',
                             link: '/myOwn/knowAbout'
+                        },
+                        {
+                            text:'tips',
+                            link:'/myOwn/tips.md'
                         }
                     ]
 

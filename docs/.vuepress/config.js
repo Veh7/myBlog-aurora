@@ -7,7 +7,6 @@ const {siteInformation} = require("./public/js/siteInformation");
 const {message} = ("./public/js/message");
 const {donate} = require("./public/js/donate");
 
-
 module.exports = {
     //base: '/REPO/',//如果你准备发布到 https://<USERNAME>.github.io/<REPO>/ ，也就是说你的仓库地址是 https://github.com/<USERNAME>/<REPO> ，则将 base 设置为 "/<REPO>/"。
     /*
@@ -29,6 +28,7 @@ module.exports = {
     * 插件plugins是一个数组，官方介绍: https://v2.vuepress.vuejs.org/zh/guide/plugin.html
     * */
     plugins: [
+     
         [
             "@vuepress/plugin-search",
             {
@@ -96,6 +96,11 @@ module.exports = {
                         //     songName: 'continued story',
                         //     cover: 'https://p1.music.126.net/Rg1x9LeUacIDqtvUzL35Cw==/109951163688517312.jpg'
                         // },
+                        {
+                            path: '/bgm/归期.m4a',
+                            songName: '归期',
+                            cover:'/avatar/avatar.jpeg'
+                        },
                         {
                             path: '/bgm/孤勇者.m4a',
                             songName: '孤勇者',
