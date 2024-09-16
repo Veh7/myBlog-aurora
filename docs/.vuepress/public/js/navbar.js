@@ -57,7 +57,7 @@ module.exports = {
                         },
                         {
                             text:'tips',
-                            link:'/myOwn/tips.md'
+                            link:'/myOwn/tips'
                         }
                     ]
 

@@ -2,7 +2,6 @@
 
 ## 医保报销
 
-> ![](./media/inner/medical.png)
 
-
+> <img src="./media//inner/medical.png" style="width: 50%">
 
