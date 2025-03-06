@@ -8,7 +8,7 @@
 >    <div style="font-family: STXingkai;font-size:20px">天堑轰雷震，穹顶云光影。</div><br/>
 >    <div style="font-family: STXingkai;font-size:20px">黯云盘，昭影明霰却透见，泰山路。</div><br/>
 >    <div style="font-family: STXingkai;font-size:20px">适君扶摇乾清殿，乱批占，奇正撼。</div><br/>
->    <div style="font-family: STXingkai;font-size:20px">神女珠洒含泪溅，泣歌府君大德，大德维何？唯生死两仪故。</div><br/>
+>    <div style="font-family: STXingkai;font-size:20px">神女珠洒含泪溅，泣歌府君乾德大，大德维何？唯生死两仪故。</div><br/>
 >    <div style="font-family: STXingkai;font-size:20px">万仞长生观死张，末了是，协无念。</div><br/>
 >    <div style="font-family: STXingkai;font-size:20px">无念祭理，理身运道无间河，府君辟地开天！</div><br/>
 > 2. <div style= "font-family:monospace;font-size:30px">道歌我颂</div><br/>
