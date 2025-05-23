@@ -212,8 +212,8 @@
 >
 > 34. <div style="font-family: STXingkai;font-size:30px">夜雨楼</div><br/><img src="./media/outter/yeYuLou/01.png" style="width: 30%"><img src="./media/outter/yeYuLou/02.png" style="width: 30%">
 >     <div style="font-family: STXingkai;font-size:20px"> 夜雨柔，翠画红偎艳新楼。</div><br/>
->     <div style="font-family: STXingkai;font-size:20px">伴卷帘霞红旆入，扇掩鸿楼缦，楼勉离星灯照影鉴。</div><br/>
->     <div style="font-family: STXingkai;font-size:20px">鉴转明照霰妆，盘秀颜，是谁求？</div><br/>
+>     <div style="font-family: STXingkai;font-size:20px">伴卷帘霞红旆入，扇掩虹缦香楼，香楼勉愿离星灯，照影鉴。</div><br/>
+>     <div style="font-family: STXingkai;font-size:20px">究鉴转明照霰妆，盘秀颜，是谁求？</div><br/>
 >     <div style="font-family: STXingkai;font-size:20px">算也是无谓，钩点零星慰玉描。</div><br/>
 >     <div style="font-family: STXingkai;font-size:20px">任滴露寻游，流到尽幕是，昊天误留。</div><br/>
 > 
