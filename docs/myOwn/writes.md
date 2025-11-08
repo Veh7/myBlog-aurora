@@ -146,7 +146,13 @@
 >       <div style="font-family: STXingkai;font-size:20px">书笺细，错旧题。</div><br/>
 >       <div style="font-family: STXingkai;font-size:20px">我自无有身怀筑，放远瞭，握别离。</div><br/>
 >
-> 19. <div style="font-family: STXingkai;font-size:30px">空庭</div><br/><img src="./media/outter/kongTing/01.png" style="width: 25%"><img src="./media/outter/kongTing/03.png" style="width: 30%"><img src="./media/outter/kongTing/02.png" style="width: 30%">
+> 19. <div style="font-family: STXingkai;font-size:30px">西江月         夜游未央</div><br/><img src="./media/outter/weiYang/04.png" style="width: 25%">
+>       <div style="font-family: STXingkai;font-size:20px">弹指一挥响佩铃，猝语留待来将。</div><br/>
+>       <div style="font-family: STXingkai;font-size:20px">十年未解豪杰梦，叙曲一尊扬，措介婉秋游未央。</div><br/>
+>       <div style="font-family: STXingkai;font-size:20px">云烟过往终难忘，庭芳漫缕若何藏？会把流年筹唱。</div><br/>
+>       <div style="font-family: STXingkai;font-size:20px">凡任分野离踪时，身孪清风歌杨柳，兴言抟转扶桑。</div><br/>
+>
+> 20. <div style="font-family: STXingkai;font-size:30px">空庭</div><br/><img src="./media/outter/kongTing/01.png" style="width: 25%"><img src="./media/outter/kongTing/03.png" style="width: 30%"><img src="./media/outter/kongTing/02.png" style="width: 30%">
 >       <div style="font-family: STXingkai;font-size:20px">谷瑟邈邈空庭苑，闲花落点，睡人悄听娴余坠。</div><br/>
 >       <div style="font-family: STXingkai;font-size:20px">卧瞰箫渺淡霰空，星争皓月，弦翼逡巡箫临风。</div><br/>
 >       <div style="font-family: STXingkai;font-size:20px">放肆绅观乱步碎，醉讯天下，身入浩淼，巧珍无垠绘。</div><br/>
